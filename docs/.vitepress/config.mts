@@ -38,7 +38,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '基本',
+        text: '🗝️ &ensp; 基本',
         collapsed:true,
         items: [
           { text: '了解Dooask', link: '/Learnabout-dootask' },
@@ -49,7 +49,7 @@ export default defineConfig({
         ],
       },
       {
-        text: '项目',
+        text: '📖 &ensp; 项目',
         collapsed:true,
         items: [
           { text: '了解项目', link: '/Learnpro-dootask' },
@@ -59,7 +59,7 @@ export default defineConfig({
         ],
       },
       {
-        text: '任务',
+        text: '🗞️ &ensp; 任务',
         collapsed:true,
         items: [
           { text: '任务的使用', link: '/Taskuse-dootask' },
@@ -69,7 +69,7 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Okr',
+        text: '📉 &ensp; Okr',
         collapsed:true,
         items: [
           { text: 'Okr的使用', link: '/Taskuse-dootask' },
@@ -79,7 +79,7 @@ export default defineConfig({
         ],
       },
       {
-        text: '团队',
+        text: '🏆 &ensp; 团队',
         collapsed:true,
         items: [
           { text: '团队和成员', link: '/Teammember-dootask' },
@@ -89,7 +89,7 @@ export default defineConfig({
         ],
       },
       {
-        text: '文件',
+        text: '📄 &ensp; 文件',
         collapsed:true,
         items: [
           { text: '文件类型', link: '/Filetype-dootask' },
