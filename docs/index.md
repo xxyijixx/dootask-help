@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Learnabout-dootask
-      link: /Learnabout-dootask
+      link: /basic/Learnabout-dootask
     - theme: alt
       text: Learnabout-dootask
-      link: /Learnabout-dootask
+      link: /basic/Learnabout-dootask
 
 features:
   - title: Feature A

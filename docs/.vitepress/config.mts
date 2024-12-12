@@ -5,7 +5,6 @@ export default defineConfig({
   lang: 'zh-CN', //语言
   title: "Dootask Helpers",
   description: "A VitePress Site",
-  titleTemplate: '另起标题会覆盖title',
   cleanUrls: true,
   appearance:'dark', //默认主题
   ignoreDeadLinks: false, //关闭忽略死链，不配置即可，非常不建议设置为true
@@ -41,65 +40,87 @@ export default defineConfig({
         text: '🗝️ &ensp; 基本',
         collapsed:true,
         items: [
-          { text: '了解Dooask', link: '/Learnabout-dootask' },
-          { text: '安装Dooask', link: '/Install-dootask' },
-          { text: '登录和注册', link: '/Login&register-dootask' },
-          { text: '通知公告', link: '/Notices-dootask' },
-          { text: '账户设置', link: '/Count-dootask' },
+          { text: ' &emsp;&emsp; 了解Dooask', link: '/basic/Learnabout-dootask' },
+          { text: ' &emsp;&emsp; 登录和注册', link: '/basic/Login&register-dootask' },
+          { text: ' &emsp;&emsp; 通知公告', link: '/basic/Notices-dootask' },
+          { text: ' &emsp;&emsp; 账户设置', collapsed:true,
+            items: [
+              { text: ' &emsp;&emsp; 基本设置', link: '/basic/Count-dootask'  },
+              { text: ' &emsp;&emsp; 个人设置', link: '/basic/Personalset-dootask' },
+              { text: ' &emsp;&emsp; 系统设置', link: '/basic/Systemset-dootask' },
+            ]
+          },
         ],
       },
+
+      {
+        text: '🛠 &ensp; 功能',
+        collapsed:true,
+        items: [
+          { text: ' &emsp;&emsp; 签到功能', link: '/functions/Check-in-dootask' },
+          { text: ' &emsp;&emsp; 提醒功能', link: '/functions/Reminders-dootask'},
+          { text: ' &emsp;&emsp; 审批中心', link: '/functions/Approval-dootask' },
+          { text: ' &emsp;&emsp; 会话聊天', link: '/functions/Chat-dootask' },
+        ],
+      },
+      {
+        text: '🪜 &ensp; 部署',
+        collapsed:true,
+        items: [
+          { text: ' &emsp;&emsp; 部署Dooask', link: '/basic/Install-dootask' },
+        ],
+      },
+
       {
         text: '📖 &ensp; 项目',
         collapsed:true,
         items: [
-          { text: '了解项目', link: '/Learnpro-dootask' },
-          { text: '创建项目', link: '/Createpro-dootask' },
-          { text: '任务列表', link: '/Tasklist-dootask' },
-          { text: '项目进展', link: '/Progress-dootask' },
+          { text: ' &emsp;&emsp; 了解项目', link: '/projects/Learnpro-dootask' },
+          { text: ' &emsp;&emsp; 创建项目', link: '/projects/Createpro-dootask'},
+          { text: ' &emsp;&emsp; 任务列表', link: '/projects/Tasklist-dootask' },
+          { text: ' &emsp;&emsp; 项目进展', link: '/projects/Progress-dootask' },
         ],
       },
       {
-        text: '🗞️ &ensp; 任务',
+        text: '💬 &ensp; 任务',
         collapsed:true,
         items: [
-          { text: '任务的使用', link: '/Taskuse-dootask' },
-          { text: '任务优先级', link: '/Taskpriority-dootask' },
-          { text: '评论与新闻', link: '/Commentnews-dootask' },
-          { text: '次要任务', link: '/Secondtask-dootask' },
+          { text: ' &emsp;&emsp; 任务的使用', link: '/task/Taskuse-dootask'},
+          { text: ' &emsp;&emsp; 任务优先级', link: '/task/Taskpriority-dootask' },
+          { text: ' &emsp;&emsp; 评论与新闻', link: '/task/Commentnews-dootask' },
+          { text: ' &emsp;&emsp; 次要任务', link: '/task/Secondtask-dootask' },
         ],
       },
       {
         text: '📉 &ensp; Okr',
         collapsed:true,
         items: [
-          { text: 'Okr的使用', link: '/Taskuse-dootask' },
-          { text: 'Okrxxx', link: '/Taskpriority-dootask' },
-          { text: 'Okrxxx', link: '/Commentnews-dootask' },
-          { text: 'Okrxxx', link: '/Secondtask-dootask' },
+          { text: ' &emsp;&emsp; Okr的使用', link: '/okr/Okruse-dootask' },
+          { text: ' &emsp;&emsp; Okrx', link: '/okr/Okrx-dootask' },
+          { text: ' &emsp;&emsp; Okrxx', link: '/okr/Okrxx-dootask' },
+          { text: ' &emsp;&emsp; Okrxxx', link: '/okr/Okrxxx-dootask' },
         ],
       },
       {
         text: '🏆 &ensp; 团队',
         collapsed:true,
         items: [
-          { text: '团队和成员', link: '/Teammember-dootask' },
-          { text: '团队管理', link: '/Teammanage-dootask' },
-          { text: '团队设置', link: '/Teamset-dootask' },
-          { text: '成员分组', link: '/Membergroup-dootask' },
+          { text: ' &emsp;&emsp; 团队和成员', link: '/team/Teammember-dootask' },
+          { text: ' &emsp;&emsp; 团队管理', link: '/team/Teammanage-dootask' },
+          { text: ' &emsp;&emsp; 团队设置', link: '/team/Teamset-dootask' },
+          { text: ' &emsp;&emsp; 成员分组', link: '/team/Membergroup-dootask' },
         ],
       },
       {
         text: '📄 &ensp; 文件',
         collapsed:true,
         items: [
-          { text: '文件类型', link: '/Filetype-dootask' },
-          { text: '文件共享', link: '/Fileshare-dootask' },
-          { text: '访问权限', link: '/Access-dootask' },
-          { text: '文件显示', link: '/Fileshow-dootask' },
+          { text: ' &emsp;&emsp; 文件类型', link: '/file/Filetype-dootask' },
+          { text: ' &emsp;&emsp; 文件共享', link: '/file/Fileshare-dootask' },
+          { text: ' &emsp;&emsp; 访问权限', link: '/file/Access-dootask' },
+          { text: ' &emsp;&emsp; 文件显示', link: '/file/Fileshow-dootask' },
         ],
       },
-     
-
     ],
 
     socialLinks: [
