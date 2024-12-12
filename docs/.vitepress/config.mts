@@ -57,10 +57,28 @@ export default defineConfig({
         text: '🛠 &ensp; 功能',
         collapsed:true,
         items: [
-          { text: ' &emsp;&emsp; 签到功能', link: '/functions/Check-in-dootask' },
-          { text: ' &emsp;&emsp; 提醒功能', link: '/functions/Reminders-dootask'},
-          { text: ' &emsp;&emsp; 审批中心', link: '/functions/Approval-dootask' },
-          { text: ' &emsp;&emsp; 会话聊天', link: '/functions/Chat-dootask' },
+          { text: '即时聊天', items: [
+                { text: '消息状态', link: '/functions/im/sf' },
+                { text: '会话标记', link: '/functions/im/2' },
+                { text: '消息撤回', link: '/functions/im/3' },
+                { text: '消息编辑', link: '/functions/im/4' },
+                { text: '会话标记4', link: '/functions/im/5' },
+                { text: '创建群组', link: '/functions/im/6' },
+                { text: '消息回复2', link: '/functions/im/7' },
+                { text: '消息转发2', link: '/functions/im/8' },
+                { text: '消息撤回2', link: '/functions/im/9' },
+                { text: '消息编辑2', link: '/functions/im/10' },
+                { text: '会话标记2', link: '/functions/im/11' }
+                
+          ], collapsed:true},
+          { text: '签到功能', link: '/functions/Check-in-dootask',  items: [
+            { text: '多种打卡方式', link: '/functions/checkin/many-ways' },
+            { text: '(管理员)签到设置', link: '/functions/checkin/setting' },
+            { text: '(管理员)数据导出', link: '/functions/checkin/export' },
+          ], collapsed:true },
+          { text: '提醒功能', link: '/functions/Reminders-dootask'},
+          { text: '审批中心', link: '/functions/Approval-dootask' },
+          { text: '会话聊天', link: '/functions/Chat-dootask' },
         ],
       },
       {
