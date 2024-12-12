@@ -92,13 +92,13 @@ export default defineConfig({
         ],
       },
       {
-        text: '📉 &ensp; Okr',
+        text: '📉 &ensp; OKR',
         collapsed:true,
         items: [
-          { text: ' &emsp;&emsp; Okr的使用', link: '/okr/Okruse-dootask' },
-          { text: ' &emsp;&emsp; Okrx', link: '/okr/Okrx-dootask' },
-          { text: ' &emsp;&emsp; Okrxx', link: '/okr/Okrxx-dootask' },
-          { text: ' &emsp;&emsp; Okrxxx', link: '/okr/Okrxxx-dootask' },
+          { text: ' &emsp;&emsp; OKR的使用', link: '/okr/okr-basic' },
+          { text: ' &emsp;&emsp; OKR结果分析', link: '/okr/okr-analysis' },
+          { text: ' &emsp;&emsp; OKR 3', link: '/okr/okr-3' },
+          { text: ' &emsp;&emsp; OKR 4', link: '/okr/okr-4' },
         ],
       },
       {
