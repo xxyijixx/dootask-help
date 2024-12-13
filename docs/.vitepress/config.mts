@@ -27,6 +27,7 @@ export default defineConfig({
   },
   head: [["link", { rel: "icon", href: "/logo.png" }]],
   themeConfig: {
+    logo: "/logo.svg",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
@@ -35,11 +36,11 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "🗝️ &ensp; 基本",
+        text: "🗝️ &ensp; 开始",
         collapsed: true,
         items: [
           {
-            text: "了解Dooask",
+            text: "快速了解 Dooask",
             link: "/basic/Learnabout-dootask",
           },
           {
@@ -76,10 +77,9 @@ export default defineConfig({
               { text: "会话标记", link: "/functions/im/sign" },
               { text: "消息撤回", link: "/functions/im/3" },
               { text: "消息编辑", link: "/functions/im/edit" },
-              { text: "555", link: "/functions/im/5" },
-              { text: "创建群组", link: "/functions/im/6" },
+              { text: "创建群组", link: "/functions/im/create-group" },
+              { text: "匿名消息", link: "/functions/im/anonymous" },
               { text: "表情回复消息", link: "/functions/im/emoji-reply" },
-              { text: "更多", link: "/functions/im/more" },
             ],
             collapsed: true,
           },
@@ -93,7 +93,16 @@ export default defineConfig({
             collapsed: true,
           },
           { text: "提醒功能", link: "/functions/reminders" },
-          { text: "审批中心", link: "/functions/approval/index" },
+          {
+            text: "审批中心",
+            link: "/functions/approval/index",
+            items: [
+              { text: "提交审批", link: "/functions/approval/submit" },
+              { text: "处理审批", link: "/functions/approval/approve" },
+              { text: "(管理员)自定义审批流程", link: "/functions/approval/process" },
+            ],
+            collapsed: true,
+          },
           {
             text: "OKR",
             collapsed: true,
@@ -132,10 +141,10 @@ export default defineConfig({
               },
               {
                 text: "多种任务展示模式",
-                link: "/functions/projects/view-modes"
+                link: "/functions/projects/view-modes",
               },
               {
-                text: "AI辅助任务的创建",
+                text: "AI辅助任务创建",
                 link: "/functions/projects/ai-assistant",
               },
             ],
@@ -157,40 +166,35 @@ export default defineConfig({
             text: "文件",
             collapsed: true,
             items: [
-              { text: "文件类型", link: "/functions/file/Filetype-dootask" },
-              { text: "文件共享", link: "/functions/file/Fileshare-dootask" },
-              { text: "访问权限", link: "/functions/file/Access-dootask" },
-              { text: "文件显示", link: "/functions/file/Fileshow-dootask" },
+              { text: "文件类型", link: "/functions/file/type" },
+              { text: "文件共享和访问权限", link: "/functions/file/share" },
+              { text: "文件显示", link: "/functions/file/show" },
             ],
           },
           {
-            text: "AI辅助",
-            collapsed: true,
-            items: [
-              { text: "AI机器人", link: "/functions/ai/index" },
-            ],
+            text: "AI机器人",
+            link: "/functions/ai/index",
+            // collapsed: true,
+            // items: [
+            // { text: "AI机器人", link: "/functions/ai/index" },
+            // ],
           },
         ],
       },
       {
         text: "🪜 &ensp; 部署",
         collapsed: true,
-        items: [
-          { text: "系统部署", link: "/deploy/index" },
-        ],
+        items: [{ text: "系统部署", link: "/deploy/index" }],
       },
       {
         text: "🪜 &ensp; 支持",
         collapsed: true,
-        items: [
-          { text: "技术交流群", link: "/support/group" },
-        ],
+        items: [{ text: "技术交流群", link: "/support/group" }],
       },
       {
         text: "文档完善中",
-        link: "/more"
-      }
-      
+        link: "/more",
+      },
     ],
 
     socialLinks: [
