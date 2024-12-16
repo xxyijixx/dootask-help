@@ -75,7 +75,6 @@ export default defineConfig({
             items: [
               { text: "消息状态", link: "/functions/im/sf" },
               { text: "会话标记", link: "/functions/im/sign" },
-              { text: "消息撤回", link: "/functions/im/3" },
               { text: "消息编辑", link: "/functions/im/edit" },
               { text: "创建群组", link: "/functions/im/create-group" },
               { text: "匿名消息", link: "/functions/im/anonymous" },
@@ -95,10 +94,10 @@ export default defineConfig({
           { text: "提醒功能", link: "/functions/reminders" },
           {
             text: "审批中心",
-            link: "/functions/approval/index",
             items: [
               { text: "提交审批", link: "/functions/approval/submit" },
               { text: "处理审批", link: "/functions/approval/approve" },
+              { text: "(管理员)数据导出", link: "/functions/approval/export" },
               { text: "(管理员)自定义审批流程", link: "/functions/approval/process" },
             ],
             collapsed: true,
@@ -153,7 +152,7 @@ export default defineConfig({
             text: "团队管理",
             collapsed: true,
             items: [
-              { text: "团队管理", link: "/functions/team/member-management" },
+              { text: "(管理员)团队管理", link: "/functions/team/member-management" },
               { text: "工作汇报", link: "/functions/team/work-report"}
             ],
           },
