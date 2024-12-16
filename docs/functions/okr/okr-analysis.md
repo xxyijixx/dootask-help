@@ -2,7 +2,7 @@
 title: "okr-analysis"
 ---
 
-# OKR 结果分析功能
+# OKR 结果分析
 
 ![Placeholder for OKR analysis image](https://via.placeholder.com/800x400.png)
 

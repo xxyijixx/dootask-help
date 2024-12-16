@@ -2,7 +2,7 @@
 title: "okr-basic"
 ---
 
-# OKR 管理系统帮助文档
+# OKR
 
 
 ![Placeholder for OKR analysis image](https://via.placeholder.com/800x400.png)

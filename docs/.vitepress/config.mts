@@ -145,7 +145,7 @@ export default defineConfig({
               },
               {
                 text: "AI辅助任务创建",
-                link: "/functions/projects/ai-assistant",
+                link: "/functions/projects/ai-assistance",
               },
             ],
           },
@@ -153,13 +153,8 @@ export default defineConfig({
             text: "团队管理",
             collapsed: true,
             items: [
-              {
-                text: "团队和成员",
-                link: "/functions/team/Teammember-dootask",
-              },
-              { text: "团队管理", link: "/functions/team/Teammanage-dootask" },
-              { text: "团队设置", link: "/functions/team/Teamset-dootask" },
-              { text: "成员分组", link: "/functions/team/Membergroup-dootask" },
+              { text: "团队管理", link: "/functions/team/member-management" },
+              { text: "工作汇报", link: "/functions/team/work-report"}
             ],
           },
           {
