@@ -1,4 +1,4 @@
-# 数据导出
+# （管理员）数据导出
 数据导出功能为管理员提供了便捷的导出选项，支持将团队管理相关的数据导出为 Excel 文件
 
 ![Placeholder Image](https://via.placeholder.com/800x400)

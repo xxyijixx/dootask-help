@@ -47,6 +47,10 @@ export default defineConfig({
             text: "登录和注册",
             link: "/basic/Login&register-dootask",
           },
+          {
+            text: "仪表盘",
+            link: "/basic/panel-dootask",
+          },
           { text: "通知公告", link: "/basic/Notices-dootask" },
           {
             text: "账户设置",
@@ -79,6 +83,8 @@ export default defineConfig({
               { text: "创建群组", link: "/functions/im/create-group" },
               { text: "匿名消息", link: "/functions/im/anonymous" },
               { text: "表情回复消息", link: "/functions/im/emoji-reply" },
+              { text: "群接龙", link: "/functions/im/group-riddle" },
+              { text: "群投票", link: "/functions/im/grooup-vote" },
             ],
             collapsed: true,
           },
