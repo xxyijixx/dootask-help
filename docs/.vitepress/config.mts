@@ -106,7 +106,7 @@ export default defineConfig({
             text: "OKR",
             collapsed: true,
             items: [
-              { text: "OKR的使用", link: "/functions/okr/okr-basic" },
+              { text: "OKR管理", link: "/functions/okr/okr-basic" },
               { text: "OKR结果分析", link: "/functions/okr/okr-analysis" },
             ],
           },
@@ -181,7 +181,7 @@ export default defineConfig({
         items: [{ text: "系统部署", link: "/deploy/index" }],
       },
       {
-        text: "🪜 &ensp; 支持",
+        text: "🤝 &ensp; 支持",
         collapsed: true,
         items: [{ text: "技术交流群", link: "/support/group" }],
       },
