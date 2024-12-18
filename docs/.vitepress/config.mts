@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  lang: "zh-CN", //语言
+  lang: "fr", //语言
   title: "Dootask Helpers",
   description: "A VitePress Site",
   cleanUrls: true,

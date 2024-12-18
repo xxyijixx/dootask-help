@@ -6,14 +6,14 @@
 
 点击【注册账号】按钮，以进入注册页面。
 
-![注册账户](/img/light/help_pic_register1.png)
+![注册账户](/images/login_pic_1.png)
 
 ### 步骤2：填写注册信息
 - 在注册页面的输入框中，输入你的电子邮箱和密码。
 - 如果管理员设置了邀请码为必需项，则还需输入邀请码。
 - 点击【注册】按钮完成初步注册。
 
-![注册账户](/img/light/help_pic_register2.png)
+![注册账户](/images/login_pic_4.png)
 
 ### 步骤3：邮箱验证（可选）
 - 如果启用了邮箱验证功能，你将收到一封验证邮件。
@@ -31,19 +31,19 @@
 
 点击【登录】按钮，即可成功进入你的账户。
 
-![账号密码登录](/img/light/help_pic_login1.png)
+![账号密码登录](/images/login_pic_1.png)
 
 ### 扫码登录
 
 #### 步骤1：进入扫码登录页面
 在登录页面上，点击右上角的绿色二维码图标，进入扫码登录页面。
 
-![扫码登录](/img/light/help_pic_login2.png)
+![扫码登录](/images/login_pic_1.png)
 
 #### 步骤2：使用移动端扫描二维码
 
 使用 DooTask 移动端应用扫描页面上的二维码，以登录你的账户。
 
-![扫码登录](/img/light/help_pic_login3.png)
+![扫码登录](/images/login_pic_3.png)
 
 通过以上步骤，你可以根据需求注册和登录你的 DooTask 账户。请根据管理员的设置确认是否需要邀请码和邮箱验证。
