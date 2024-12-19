@@ -3,7 +3,7 @@
 项目归档功能用于对已完成或已取消的项目进行整理和存储，方便未来参考或复盘。
 
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![项目归档](/images/pro_archi.png)
 
 ## 功能要点：
 - **归档项目**：将已完成或已取消的项目标记为归档状态。

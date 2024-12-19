@@ -3,13 +3,14 @@ outline: -1
 ---
 # 团队和成员管理
 旨在帮助企业高效组织和分配团队资源
+![团队和成员管理](/images/team_mana_1.png)
 
 ## 部门与组织架构管理
 
 - **添加子部门**: 支持根据企业需求创建多层次子部门，实现清晰的组织结构。
 - **修改部门**: 随时调整成员所属部门，确保人员分配灵活高效。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![部门与组织架构管理](/images/team_mana_2.png)
 
 
 ## 精准搜索与筛选
@@ -19,7 +20,7 @@ outline: -1
 - **在职状态筛选**:支持筛选在职或已离职员工。
 - **邮箱认证状态**: 根据邮箱是否认证筛选成员，提高信息管理的可靠性。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![精准搜索与筛选](/images/team_mana_3.png)
 
 
 ## 成员权限与状态管理
@@ -29,7 +30,7 @@ outline: -1
 - **修改邮箱**: 管理员可以直接为成员更换绑定邮箱，确保账户安全。
 - **修改密码**: 当成员忘记密码或有安全风险时，管理员可手动重置密码。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![成员权限与状态管理](/images/team_mana_4.png)
 
 
 ##  人员调整与退出管理
@@ -37,7 +38,7 @@ outline: -1
 - **离职操作**: 支持为员工标记离职状态，保留相关记录以供后续查阅。
 - **删除成员**: 对于无效或重复的账号，管理员可执行彻底删除操作，保持团队名单清晰整洁。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![人员调整与退出管理](/images/team_mana_5.png)
 
 
 

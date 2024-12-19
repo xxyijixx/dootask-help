@@ -9,16 +9,16 @@ outline: -1
 ## 展示模式：
 - **列表视图**：适合查看详细任务信息。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![列表视图](/images/pro_vimo_1.png)
 
 - **看板视图**：以任务列的形式直观展示任务进展。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![看板视图](/images/pro_vimo_2.png)
 
 - **时间线视图**：按时间顺序查看任务安排。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![时间线视图](/images/pro_vimo_3.png)
 
 - **日历视图**：以日历形式展示任务。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![日历视图](/images/pro_vimo_4.png)

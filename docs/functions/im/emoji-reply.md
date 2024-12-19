@@ -2,7 +2,7 @@
 
 表情回复允许用户通过表情符号对特定消息进行快速回应。这一功能为用户提供了一种简洁而富有表现力的方式来表达情绪和反馈，减少了输入文本的需要。
 
-![placeholder](https://via.placeholder.com/800x400.png)
+![placeholder](/images/im_emoji_pic_5.png)
 
 ## 表情回复功能概述
 
@@ -15,13 +15,19 @@
 1. **选择消息**
    - 在聊天窗口中，鼠标右键点击需要回复的消息。
 
+   ![placeholder](/images/im_emoji_pic_3.png)
+
 2. **打开表情菜单**
    - 点击消息旁边出现的“表情”图标或“更多选项”菜单。
    - 弹出表情选择界面。
 
+   ![placeholder](/images/im_emoji_pic_6.png)
+
 3. **选择表情**
    - 从表情菜单中选择一个适合的表情符号。
    - 选中的表情将立即显示在该消息的下方或旁边。
+   
+   ![placeholder](/images/im_emoji_pic_1.png)
 
 ### 移动端操作
 

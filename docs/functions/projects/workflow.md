@@ -2,7 +2,7 @@
 
 工作流设置允许团队自定义任务的处理流程，提升工作效率。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![新任务提醒](/images/pro_workflow.png)
 
 ## 功能要点：
 - **定义流程**：设定任务的标准处理步骤。

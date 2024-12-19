@@ -4,15 +4,11 @@ title: "okr-basic"
 
 # OKR
 
-
-![Placeholder for OKR analysis image](https://via.placeholder.com/800x400.png)
-
 本文档旨在说明 OKR（目标与关键成果）管理系统的主要功能及使用方法，帮助用户更高效地设置、跟踪和复盘 OKR。
-
 
 ## 系统概览
 
-![Placeholder for OKR analysis image](https://via.placeholder.com/800x400.png)
+![系统概览](/images/okr_pic_1.png)
 
 OKR 管理系统包含以下主要模块：
 
@@ -41,6 +37,8 @@ OKR 管理系统包含以下主要模块：
 ### 核心指标
 - **目标完成进度：** 每个目标的完成情况以百分比形式展示。  
 - **关键结果（KR）：** 每个目标的具体可衡量成果，包括完成百分比及与目标的对齐情况。
+
+![核心指标](/images/okr_pic_2.png)
 
 ### 用户角色
 - **创建者：** 负责设置和管理 OKR 的用户。  

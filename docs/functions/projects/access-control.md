@@ -2,15 +2,13 @@
 
 项目权限管理支持管理员灵活控制任务列和任务的操作权限，确保项目的安全性和高效性。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![项目权限管理](/images/pro_control_1.png)
 
 ## 任务列权限
 - **添加列**：控制谁可以创建任务列。
 - **修改列**：限制谁可以编辑任务列的名称和配置。
 - **删除列**：设置谁可以移除任务列。
 - **排序列**：允许指定用户调整任务列的顺序。
-
-![Placeholder Image](https://via.placeholder.com/800x400)
 
 ## 任务权限
 - **添加任务**：定义哪些角色可以创建新任务。
@@ -21,4 +19,5 @@
 - **删除任务**：限制谁可以删除任务。
 - **移动任务**：设置任务在不同任务列间移动的权限。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![项目权限管理](/images/pro_control_2.png)
+

@@ -6,7 +6,7 @@
 
 在发送消息后，用户可以通过消息编辑功能进行修改。编辑后的消息会在消息旁边显示一个编辑标识，提示接收方该消息已被更改。
 
-![placeholder](https://via.placeholder.com/800x400.png)
+![placeholder](/images/im_edit_pic_2.png)
 
 ## 操作方法
 

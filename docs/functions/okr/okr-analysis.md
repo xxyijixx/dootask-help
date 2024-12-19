@@ -4,7 +4,7 @@ title: "okr-analysis"
 
 # OKR 结果分析
 
-![Placeholder for OKR analysis image](https://via.placeholder.com/800x400.png)
+![结果分析](/images/okr_pic_3.png)
 
 这份文档应用于帮助管理员熟练使用 OKR 结果分析功能，以最大化其管理效益。
 

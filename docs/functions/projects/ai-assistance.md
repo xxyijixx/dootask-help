@@ -2,7 +2,7 @@
 
 AI辅助功能能够帮助用户更高效地创建任务并提供智能建议。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![结合AI辅助任务的创建](/images/pro_ai-ass.png)
 
 ## 功能要点：
 - **智能生成任务**：根据描述自动生成任务标题和内容。

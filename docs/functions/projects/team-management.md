@@ -2,7 +2,7 @@
 
 项目成员管理功能允许管理员为项目分配和管理成员，确保每个成员都能够清楚了解自己的角色和职责。
 
-![Placeholder Image](https://via.placeholder.com/800x400)
+![项目成员管理](/images/pro_team_mana.png)
 
 ## 功能要点：
 - **添加成员**：将新成员分配到项目中。

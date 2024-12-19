@@ -62,7 +62,7 @@ export default defineConfig({
                 link: "/basic/Personalset-dootask",
               },
               {
-                text: "系统设置",
+                text: "(管理员)系统设置",
                 link: "/basic/Systemset-dootask",
               },
             ],
