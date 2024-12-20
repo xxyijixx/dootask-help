@@ -27,7 +27,7 @@
     - **标记为已读**：确认已查看所有消息，移除未读提示。
     - **置顶会话**：用于将重要会话固定在聊天列表顶部，方便快速访问。
 
-![placeholder](https://via.placeholder.com/400x800.png)
+<!-- ![placeholder](https://via.placeholder.com/400x800.png) -->
 
 ## 功能特性
 

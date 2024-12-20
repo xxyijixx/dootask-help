@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  lang: "fr", //语言
+  lang: "Zh_CN", //语言
   title: "Dootask Helpers",
   description: "A VitePress Site",
   cleanUrls: true,
@@ -31,7 +31,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      // { text: "Examples", link: "/markdown-examples" },
     ],
 
     sidebar: [
@@ -198,7 +198,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/kuaifan/dootask" },
     ],
   },
 });
