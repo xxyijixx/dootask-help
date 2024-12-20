@@ -186,17 +186,19 @@ export default defineConfig({
         ],
       },
       {
-        text: "🪜 &ensp; 部署",
-        collapsed: true,
-        items: [{ text: "系统部署", link: "/deploy/index" }],
+        text: " &ensp; 部署",
+        link: "/deploy/index"
+        // collapsed: true,
+        // items: [{ text: "系统部署", link: "/deploy/index" }],
       },
       {
-        text: "🤝 &ensp; 支持",
-        collapsed: true,
-        items: [{ text: "技术交流群", link: "/support/group" }],
+        text: " &ensp; 支持",
+        link: "/support/group" 
+        // collapsed: true,
+        // items: [{ text: "技术交流群", link: "/support/group" }],
       },
       {
-        text: "文档完善中",
+        text: "&ensp; 文档完善中",
         link: "/more",
       },
     ],
