@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
 
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "Zh_CN", //语言
@@ -28,6 +29,9 @@ export default defineConfig({
   head: [["link", { rel: "icon", href: "/logo.png" }]],
   themeConfig: {
     logo: "/logo.svg",
+    search:{
+      provider: "local",
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
@@ -51,7 +55,7 @@ export default defineConfig({
             text: "仪表盘",
             link: "/basic/panel-dootask",
           },
-          { text: "通知公告", link: "/basic/Notices-dootask" },
+          // { text: "通知公告", link: "/basic/Notices-dootask" },
           {
             text: "账户设置",
             collapsed: true,
