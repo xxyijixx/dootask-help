@@ -7,7 +7,6 @@ export default defineConfig({
   title: "Dootask Helpers",
   description: "A VitePress Site",
   cleanUrls: true,
-  appearance: "dark", //默认主题
   ignoreDeadLinks: false, //关闭忽略死链，不配置即可，非常不建议设置为true
   //多语言
   locales: {
@@ -20,13 +19,8 @@ export default defineConfig({
       lang: "en",
       link: "/en/",
     },
-    fr: {
-      label: "French",
-      lang: "fr",
-      link: "/fr/",
-    },
   },
-  head: [["link", { rel: "icon", href: "/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/logo.svg" }]],
   themeConfig: {
     logo: "/logo.svg",
     search:{
@@ -66,7 +60,7 @@ export default defineConfig({
 
       {
         text: "🛠 &ensp; 功能",
-        // collapsed: true,
+        collapsed: false,
         items: [
           {
             text: "&ensp; 账户设置",
@@ -98,7 +92,7 @@ export default defineConfig({
               { text: "&ensp;群接龙", link: "/functions/im/group-riddle" },
               { text: "&ensp;群投票", link: "/functions/im/grooup-vote" },
             ],
-            collapsed: true,
+            collapsed: false,
           },
           {
             text: "&ensp; 签到功能",
@@ -129,8 +123,8 @@ export default defineConfig({
             ],
           },
           {
-            text: "&ensp; 项目",
-            collapsed: true,
+            text: "项目",
+            collapsed: false,
             items: [
               {
                 text: "&ensp;项目成员管理",
@@ -145,7 +139,11 @@ export default defineConfig({
                 link: "/functions/projects/project-archiving",
               },
               {
-                text: "&ensp;任务模板",
+                text: "任务管理",
+                link: "/functions/projects/task"
+              },
+              {
+                text: "任务模板",
                 link: "/functions/projects/task-templates",
               },
               {
