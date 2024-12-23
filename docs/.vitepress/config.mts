@@ -76,7 +76,7 @@ export default defineConfig({
 
       {
         text: "🛠 &ensp; 功能",
-        collapsed: true,
+        collapsed: false,
         items: [
           {
             text: "即时沟通",
@@ -135,6 +135,10 @@ export default defineConfig({
               {
                 text: "项目归档",
                 link: "/functions/projects/project-archiving",
+              },
+              {
+                text: "任务管理",
+                link: "/functions/projects/task"
               },
               {
                 text: "任务模板",
