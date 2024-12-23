@@ -51,7 +51,7 @@ export default defineConfig({
             link: "/basic/dashboard",
           },
           {
-            text: "日历",
+            text: "任务日历",
             link: "/basic/clander",
           },
         ],
