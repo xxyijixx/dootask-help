@@ -49,6 +49,10 @@ export default defineConfig({
             text: "仪表盘",
             link: "/basic/dashboard",
           },
+          {
+            text: "日历",
+            link: "/basic/clander",
+          },
         ],
       },
 
