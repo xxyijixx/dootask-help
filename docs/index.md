@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /basic/Learnabout-dootask
+      link: /basic/quick-start
 
 features:
   - title: 项目管理

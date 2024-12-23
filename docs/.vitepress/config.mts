@@ -35,26 +35,20 @@ export default defineConfig({
     sidebar: [
       {
         text: "🗝️ &ensp; 开始",
-        // collapsed: true,
+        collapsed: false,
         items: [
           {
-            text: " &ensp; 快速了解 Dooask",
-            link: "/basic/Learnabout-dootask",
+            text: "快速了解 Dooask",
+            link: "/basic/quick-start",
           },
           {
             text: " &ensp; AI助手",
             link: "/basic/Aiass-dootask",
           },
           {
-            text: "&ensp; 登录和注册",
-            link: "/basic/Login&register-dootask",
+            text: "仪表盘",
+            link: "/basic/dashboard",
           },
-          {
-            text: "&ensp; 仪表盘",
-            link: "/basic/panel-dootask",
-          },
-          // { text: "通知公告", link: "/basic/Notices-dootask" },
-          { text: "&ensp; 提醒功能", link: "/functions/reminders" },
         ],
       },
 
@@ -63,8 +57,17 @@ export default defineConfig({
         collapsed: false,
         items: [
           {
-            text: "&ensp; 账户设置",
-            collapsed: true,
+            text: "账号与设置",
+            items: [
+              { text: "账号注册", link: "/functions/account/account-register" },
+              { text: "账号登录", link: "/functions/account/account-login" },
+              { text: "个人设置", link: "/functions/account/personal-setting" },
+              { text: "系统设置（管理员）", link: "/functions/account/system-setting" },
+            ],
+            collapsed: false,
+          },
+          {
+            text: "即时沟通",
             items: [
               { text: "&ensp; 基本设置", 
                 link: "/basic/Count-dootask",
