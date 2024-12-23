@@ -1,6 +1,5 @@
 import { defineConfig } from "vitepress";
 
-
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: "Zh_CN", //语言
@@ -13,17 +12,19 @@ export default defineConfig({
     root: {
       label: "简体中文",
       lang: "Zh_CN",
+      title: "DooTask 帮助中心",
     },
     en: {
       label: "English",
       lang: "en",
       link: "/en/",
+      title: "DooTask Help Center",
     },
   },
   head: [["link", { rel: "icon", href: "/logo.svg" }]],
   themeConfig: {
     logo: "/logo.svg",
-    search:{
+    search: {
       provider: "local",
     },
     // https://vitepress.dev/reference/default-theme-config
@@ -34,7 +35,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "🗝️ &ensp; 开始",
+        text: "🗝️ &ensp; 快速开始",
         collapsed: false,
         items: [
           {
@@ -55,57 +56,76 @@ export default defineConfig({
           },
         ],
       },
-
       {
-        text: "🛠 &ensp; 功能",
+        text: "🛠️ &ensp; 账号与设置",
+        collapsed: false,
+        items: [
+          { text: "账号注册", link: "/functions/account/account-register" },
+          { text: "账号登录", link: "/functions/account/account-login" },
+          { text: "个人设置", link: "/functions/account/personal-setting" },
+          {
+            text: "系统设置（管理员）",
+            link: "/functions/account/system-setting",
+          },
+        ],
+      },
+      {
+        text: "💬 &ensp; 即时沟通",
+        collapsed: false,
+        items: [
+          { text: "消息状态", link: "/functions/im/sf" },
+          { text: "会话标记", link: "/functions/im/sign" },
+          { text: "消息编辑", link: "/functions/im/edit" },
+          { text: "创建群组", link: "/functions/im/create-group" },
+          { text: "匿名消息", link: "/functions/im/anonymous" },
+          { text: "表情回复消息", link: "/functions/im/emoji-reply" },
+          { text: "群接龙", link: "/functions/im/group-riddle" },
+          { text: "群投票", link: "/functions/im/grooup-vote" },
+        ],
+      },
+      {
+        text: "✅ &ensp; 项目与任务管理",
+        collapsed: false,
+        items: [
+          { text: "项目成员管理", link: "/functions/projects/team-management" },
+          { text: "项目权限管理", link: "/functions/projects/access-control" },
+          { text: "项目归档", link: "/functions/projects/project-archiving" },
+          { text: "任务管理", link: "/functions/projects/task" },
+          { text: "任务模板", link: "/functions/projects/task-templates" },
+          { text: "任务标签", link: "/functions/projects/task-tags" },
+          { text: "工作流设置", link: "/functions/projects/workflow" },
+          { text: "多种任务展示模式", link: "/functions/projects/view-modes" },
+          { text: "AI辅助任务创建", link: "/functions/projects/ai-assistance" },
+        ],
+      },
+      {
+        text: "📦 &ensp; 工具与功能模块",
         collapsed: false,
         items: [
           {
-            text: "账号与设置",
-            items: [
-              { text: "账号注册", link: "/functions/account/account-register" },
-              { text: "账号登录", link: "/functions/account/account-login" },
-              { text: "个人设置", link: "/functions/account/personal-setting" },
-              { text: "系统设置（管理员）", link: "/functions/account/system-setting" },
-            ],
-            collapsed: false,
-          },
-          {
-            text: "即时沟通",
-            items: [
-              { text: "消息状态", link: "/functions/im/sf" },
-              { text: "会话标记", link: "/functions/im/sign" },
-              { text: "消息编辑", link: "/functions/im/edit" },
-              { text: "创建群组", link: "/functions/im/create-group" },
-              { text: "匿名消息", link: "/functions/im/anonymous" },
-              { text: "表情回复消息", link: "/functions/im/emoji-reply" },
-              { text: "群接龙", link: "/functions/im/group-riddle" },
-              { text: "群投票", link: "/functions/im/grooup-vote" },
-            ],
-            collapsed: false,
-          },
-          {
-            text: "签到功能",
+            text: "签到打卡",
+            collapsed: true,
             items: [
               { text: "多种打卡方式", link: "/functions/checkin/many-ways" },
               { text: "(管理员)签到设置", link: "/functions/checkin/setting" },
               { text: "(管理员)数据导出", link: "/functions/checkin/export" },
             ],
-            collapsed: true,
           },
-    
           {
             text: "审批中心",
+            collapsed: true,
             items: [
               { text: "提交审批", link: "/functions/approval/submit" },
               { text: "处理审批", link: "/functions/approval/approve" },
               { text: "(管理员)数据导出", link: "/functions/approval/export" },
-              { text: "(管理员)自定义审批流程", link: "/functions/approval/process" },
+              {
+                text: "(管理员)自定义审批流程",
+                link: "/functions/approval/process",
+              },
             ],
-            collapsed: true,
           },
           {
-            text: "OKR",
+            text: "OKR管理",
             collapsed: true,
             items: [
               { text: "OKR管理", link: "/functions/okr/okr-basic" },
@@ -113,57 +133,18 @@ export default defineConfig({
             ],
           },
           {
-            text: "项目",
-            collapsed: false,
-            items: [
-              {
-                text: "项目成员管理",
-                link: "/functions/projects/team-management",
-              },
-              {
-                text: "项目权限管理",
-                link: "/functions/projects/access-control",
-              },
-              {
-                text: "项目归档",
-                link: "/functions/projects/project-archiving",
-              },
-              {
-                text: "任务管理",
-                link: "/functions/projects/task"
-              },
-              {
-                text: "任务模板",
-                link: "/functions/projects/task-templates",
-              },
-              {
-                text: "任务标签",
-                link: "/functions/projects/task-tags",
-              },
-              {
-                text: "工作流设置",
-                link: "/functions/projects/workflow",
-              },
-              {
-                text: "多种任务展示模式",
-                link: "/functions/projects/view-modes",
-              },
-              {
-                text: "AI辅助任务创建",
-                link: "/functions/projects/ai-assistance",
-              },
-            ],
-          },
-          {
             text: "团队管理",
             collapsed: true,
             items: [
-              { text: "(管理员)团队管理", link: "/functions/team/member-management" },
-              { text: "工作汇报", link: "/functions/team/work-report"}
+              {
+                text: "(管理员)团队管理",
+                link: "/functions/team/member-management",
+              },
+              { text: "工作汇报", link: "/functions/team/work-report" },
             ],
           },
           {
-            text: "文件",
+            text: "文件管理",
             collapsed: true,
             items: [
               { text: "文件类型", link: "/functions/file/type" },
@@ -172,25 +153,27 @@ export default defineConfig({
             ],
           },
           { text: "提醒功能", link: "/functions/reminders" },
-          {
-            text: "AI机器人",
-            link: "/functions/ai/index",
-          },
+          { text: "AI机器人", link: "/functions/ai/index" },
         ],
       },
       {
-        text: "部署",
-        link: "/deploy/index"
+        text: "🚀 &ensp; 部署与集成",
+        link: "/deploy/index",
       },
       {
-        text: "支持",
-        link: "/support/group" 
+        text: "🤝 &ensp; 支持与帮助",
+        link: "/support/group",
       },
       {
-        text: "文档完善中",
+        text: "📚 &ensp; 文档完善中",
         link: "/more",
       },
     ],
+
+    outline: {
+      level: [2, 6],
+      label: "目录",
+    },
 
     socialLinks: [
       { icon: "github", link: "https://github.com/kuaifan/dootask" },
