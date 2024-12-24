@@ -3,20 +3,20 @@
 layout: home
 
 hero:
-  name: "DooTask帮助文档"
+  name: "DooTask Documentation"
   text: ""
-  tagline: 开源在线项目任务管理工具
+  tagline: Open Source Online Project Task Management Tool
   actions:
     - theme: brand
-      text: 开始阅读
+      text: Get Started
       link: /basic/quick-start
 
 features:
-  - title: 项目管理
-    details: 支持多种项目管理模式，适用于各种规模和类型的项目管理，实时掌控项目进度，优化工作流程。
-  - title: 团队协作
-    details: 提供丰富实用的在线文档协作工具，方便团队成员之间的沟通和协作，提高工作效率。
-  - title: 任务协同
-    details: 以任务化的方式让团队的工作井井有条，保证团队协作的高效性和任务分工的明确性。
+  - title: Project Management
+    details: Supports multiple project management modes, suitable for projects of various scales and types, real-time project progress monitoring, and workflow optimization.
+  - title: Team Collaboration
+    details: Provides rich and practical online document collaboration tools to facilitate communication and collaboration between team members, improving work efficiency.
+  - title: Task Coordination
+    details: Organizes team work in a task-oriented manner, ensuring team collaboration efficiency and clear task division.
 ---
 
