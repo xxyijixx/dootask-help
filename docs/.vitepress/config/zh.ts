@@ -46,7 +46,7 @@ export const zhConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
     },
     darkModeSwitchLabel: "深浅模式",
     outline: {
-      level: [1, 6],
+      level: [2, 6],
       label: "目录",
     },
   },

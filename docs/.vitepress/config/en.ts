@@ -10,7 +10,7 @@ export const enConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
     sidebar: enSidebar, // 侧边栏
     outline: {
       // 大纲显示 1-6 级标题
-      level: [1, 6],
+      level: [2, 6],
     },
     search: {
       provider: "local",

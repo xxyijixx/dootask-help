@@ -9,6 +9,7 @@ export const zhSidebar: DefaultTheme.Sidebar = {
         { text: "快速了解 Dooask", link: "/basic/quick-start" },
         { text: "AI助手", link: "/basic/Aiass-dootask" },
         { text: "仪表盘", link: "/basic/dashboard" },
+        { text: "任务日历", link: "/basic/clander" },
       ],
     },
     {
