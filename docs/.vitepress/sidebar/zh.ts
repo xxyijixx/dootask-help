@@ -51,7 +51,7 @@ export const zhSidebar: DefaultTheme.Sidebar = {
         { text: "任务标签", link: "/functions/projects/task-tags" },
         { text: "工作流设置", link: "/functions/projects/workflow" },
         { text: "多种任务展示模式", link: "/functions/projects/view-modes" },
-        { text: "AI辅助任务创建", link: "/functions/projects/ai-assistance" },
+        // { text: "AI辅助任务创建", link: "/functions/projects/ai-assistance" },
       ],
     },
     {
