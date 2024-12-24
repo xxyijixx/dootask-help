@@ -3,9 +3,9 @@ import { defineConfig } from "vitepress";
 export const sharedConfig = defineConfig({
   metaChunk: true,
   lang: "zh-CN", // 语言
-  title: "XXXXXX", // 站点名称
+  title: "DooTask 帮助文档", // 站点名称
   titleTemplate: "Hi，终于等到你", // 网页标题
-  description: "xxx、xxx", // 站点描述
+  description: "DooTask 帮助文档", // 站点描述
   cleanUrls: true,
   head: [
     // favicon.ico 图标等
