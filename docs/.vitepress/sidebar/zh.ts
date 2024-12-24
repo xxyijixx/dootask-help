@@ -63,8 +63,8 @@ export const zhSidebar: DefaultTheme.Sidebar = {
           collapsed: true,
           items: [
             { text: "多种打卡方式", link: "/functions/checkin/many-ways" },
-            { text: "(管理员)签到设置", link: "/functions/checkin/setting" },
-            { text: "(管理员)数据导出", link: "/functions/checkin/export" },
+            { text: "签到设置(管理员)", link: "/functions/checkin/setting" },
+            { text: "数据导出(管理员)", link: "/functions/checkin/export" },
           ],
         },
         {
@@ -73,9 +73,9 @@ export const zhSidebar: DefaultTheme.Sidebar = {
           items: [
             { text: "提交审批", link: "/functions/approval/submit" },
             { text: "处理审批", link: "/functions/approval/approve" },
-            { text: "(管理员)数据导出", link: "/functions/approval/export" },
+            { text: "数据导出(管理员)", link: "/functions/approval/export" },
             {
-              text: "(管理员)自定义审批流程",
+              text: "自定义审批流程(管理员)",
               link: "/functions/approval/process",
             },
           ],
@@ -93,21 +93,23 @@ export const zhSidebar: DefaultTheme.Sidebar = {
           collapsed: true,
           items: [
             {
-              text: "(管理员)团队管理",
+              text: "团队管理(管理员)",
               link: "/functions/team/member-management",
             },
-            { text: "工作汇报", link: "/functions/team/work-report" },
+            // { text: "组织架构调整", link: ""},
+            // { text: "员工离职处理", link: ""},
           ],
         },
         {
           text: "文件管理",
           collapsed: true,
           items: [
-            { text: "文件类型", link: "/functions/file/type" },
+            { text: "文件管理", link: "/functions/file/type" },
             { text: "文件共享和访问权限", link: "/functions/file/share" },
-            { text: "文件显示", link: "/functions/file/show" },
+            { text: "文件展示方式", link: "/functions/file/show" },
           ],
         },
+        { text: "工作报告", link: "/functions/report" },
         { text: "提醒功能", link: "/functions/reminders" },
         { text: "AI机器人", link: "/functions/ai/index" },
       ],

@@ -1,10 +1,12 @@
 import { defineConfig } from "vitepress";
 
 export const sharedConfig = defineConfig({
+  rewrites: {
+    "zh/:rest*": ":rest*",
+  },
   metaChunk: true,
   lang: "zh-CN", // 语言
   title: "DooTask 帮助文档", // 站点名称
-  titleTemplate: "Hi，终于等到你", // 网页标题
   description: "DooTask 帮助文档", // 站点描述
   cleanUrls: true,
   head: [
