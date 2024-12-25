@@ -6,7 +6,7 @@
 3. On this page, you can update your avatar, phone number, nickname, position, and other information.
 4. After making changes, click [Submit] to confirm the changes, or select [Reset] to restore default settings.
 
-![Personal Information Settings](/images/basic_person_1.png)
+![Personal Information Settings](/images/en/en_login_pic_4.png)
 
 ## Password Settings
 1. Click on [Avatar] in the upper right corner of the user interface.

@@ -14,6 +14,6 @@ Displays the current number of incomplete tasks, allowing users to clearly under
 -  **Task List Display**:
 The accompanying task list allows users to directly click to view specific task details. This way, users can quickly browse task status on the dashboard, understand the progress of various tasks, and make timely adjustments.
 
-![Dashboard Introduction](/images/panel.png)
+![Dashboard Introduction](/images/en/en_dashboaren_d_pic_0.png)
 
 The dashboard setup aims to provide users with a more intuitive and efficient task management method, helping users better grasp task progress, adjust work plans in a timely manner, and ensure each task is completed on schedule.
