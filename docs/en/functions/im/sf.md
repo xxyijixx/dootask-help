@@ -1,46 +1,47 @@
-# Message Sending and Reading Status in Instant Messaging Applications
+# Message delivery and reading status in instant messaging apps
 
-Understanding message sending and reading status is an essential part of the user experience in instant messaging applications. This section describes in detail how message status is displayed and functions in both private chats and group chats.
+Understanding message delivery and reading status is an important part of the user experience in instant messaging apps. This section details the display and functionality of message status in private and group chats.
 
-## Private Chat Message Status
+## Private chat message status
 
-In private chats, message sending and reading status are indicated by checkmarks to help users understand whether their messages have been received and read by the recipient.
+In private chats, message delivery and reading status are indicated by check marks to help users understand whether their messages have been received and read by the recipient.
 
-- **Single Check: Message Successfully Sent**
-  - When a user sends a message, a single check appears next to it, indicating the message has been successfully sent to the server.
-  - This means the message has reached the recipient's device, but they may not have viewed it yet.
+- **Single check: message successfully sent**
+- When a user sends a message, a single check mark appears next to the message, indicating that the message has been successfully sent to the server.
+- This means that the message has arrived at the recipient's device, but they may not have viewed it yet.
 
-- **Double Check: Message Read**
-  - When the recipient opens the chat window and views the message, the single check turns into a double check.
-  - This indicates the message has been read by the recipient, confirming they have seen the sent information.
+- **Double check: message has been read**
+- When the recipient opens the chat window and views the message, the single check will turn into a double check.
+- This indicates that the recipient has read the message, confirming that they have seen the information sent.
 
 ![placeholder](/images/im_1.png)
 
-## Group Chat Message Status
+## Group chat message status
 
-In group chats, message reading status is represented by a circular ring icon, allowing users to quickly understand how many group members have read the message.
+In a group chat, the message reading status is indicated by a circular ring icon, allowing users to quickly understand how many group members have read the message.
 
-- **Gray Ring: Message Unread by All**
-  - When a message is sent to a group chat, a gray ring appears on its right, indicating that no group members have read the message yet.
+- **Gray ring: message not read by everyone**
+- When a message is sent to a group chat, a gray ring will appear on its right side, indicating that no group member has read the message yet.
 
-- **Partially Green Ring: Message Partially Read**
-  - When some group members have read the message, the ring becomes partially green. The green portion represents the proportion of members who have read the message.
-  - This provides a visual way for users to intuitively understand the reading progress.
+- **Partial green ring: message partially read**
+- When some group members have read the message, the ring turns partially green. The green part represents the proportion of members who have read the message.
+- This provides users with a visual way to intuitively understand the reading progress.
 
-- **Green Ring: Message Read by All**
-  - When all group members have read the message, the ring turns completely green.
-  - This indicates the message has been read by all participants in the conversation.
+- **Green ring: message has been read by everyone**
+- When all group members have read the message, the ring turns completely green.
+- This means that all participants in the conversation have read the message.
 
-- **View Reading Details**
-  - By clicking the ring icon, users can view specific lists of members who have and haven't read the message.
-  - **Read List**: Shows group members who have viewed the message.
-  - **Unread List**: Shows group members who haven't viewed the message yet.
+- **View reading details**
+- By clicking the ring icon, users can view a specific list of members who have read and unread messages.
+- **Read list**: Displays group members who have read the message.
+- **Unread list**: Displays group members who have not read the message yet.
 
 ![placeholder](/images/im_3.png)
 
-## Status Update Details
+## Status update details
 
-- **Real-time Updates**: Message status is updated in real-time based on recipient actions, ensuring senders can quickly understand the reception status.
-- **Notification Mechanism**: Users can choose to enable or disable notifications about message read status to balance privacy and information transparency.
+- **Real-time update**: Update the message status in real time according to the recipient's operation, ensuring that the sender can quickly understand the receiving status.
 
-The above describes the basic design and functionality of message sending and reading status in instant messaging applications. These status display methods can be further optimized and adjusted based on specific application requirements and user feedback.
+- **Notification mechanism**: Users can choose to turn on or off the message read status notification to balance privacy and information transparency.
+
+The above introduces the basic design and functions of message sending and reading status in instant messaging applications. These status display methods can be further optimized and adjusted based on specific application needs and user feedback.

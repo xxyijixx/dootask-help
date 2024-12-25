@@ -30,13 +30,13 @@
    - 点击“创建”按钮来完成群组的创建。
    - 新创建的群组将立即出现在聊天列表中，用户可以立即开始与新群成员进行群聊。
    
-   ![placeholder](/images/im_group_pic_6.png)
+![placeholder](/images/im_group_pic_6.png)
 
 4. **添加群成员**
    - 在弹出的联系人选择界面中，选择要加入群组的其他用户。
    - 可以通过搜索框快速查找并选择联系人。
    
-   ![placeholder](/images/im_group_pic_3.png)
+![placeholder](/images/im_group_pic_3.png)
 
    
 
