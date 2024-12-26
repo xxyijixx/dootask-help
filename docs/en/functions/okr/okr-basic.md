@@ -47,7 +47,7 @@ Facilitates periodic performance reviews to ensure timely summary and adjustment
 - **Goal Completion Progress:** Displays completion status of each objective as a percentage, helping users understand goal achievement progress in real-time.
 - **Key Results (KR):** Specific measurable outcomes for each objective, showing completion percentage and alignment with goals.
 
-![Core Metrics](/images/okr_pic_2.png)
+![Core Metrics](/images/en/en_okr_pic_6.png)
 
 ### User Roles
 - **Creator:** User responsible for setting and managing OKRs, creating objectives and defining related key results.

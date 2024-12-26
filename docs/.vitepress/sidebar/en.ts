@@ -58,7 +58,7 @@ export const enSidebar: DefaultTheme.Sidebar = {
       collapsed: false,
       items: [
         {
-          text: "Attendance & Check-in",
+          text: "Check-in",
           collapsed: true,
           items: [
             { text: "Multiple Check-in Methods", link: "/en/functions/checkin/many-ways" },
@@ -105,16 +105,16 @@ export const enSidebar: DefaultTheme.Sidebar = {
         },
         { text: "Work Reports", link: "/en/functions/report" },
         { text: "Reminders", link: "/en/functions/reminders" },
-        { text: "AI Bot", link: "/en/functions/ai/index" },
+        { text: "AI Bot", link: "/en/functions/ai" },
       ],
     },
     {
       text: "🚀 &ensp; Deployment & Integration",
-      link: "/en/deploy/index",
+      link: "/en/deploy",
     },
     {
       text: "🤝 &ensp; Support & Help",
-      link: "/en/support/group",
+      link: "/en/support",
     },
     {
       text: "📚 &ensp; Documentation in Progress",

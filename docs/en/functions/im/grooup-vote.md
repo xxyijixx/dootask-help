@@ -30,7 +30,7 @@ A tool that helps groups quickly collect opinions and make decisions, allowing m
    - **Send Again**: Click this button to republish the voting link, reminding members who haven't voted yet to ensure more participation.
    - **End Vote**: Click this button to close the voting and stop accepting new votes, providing a clear view of the voting results.
    
-   ![placeholder](/images/im_group_vote_5.png)
+   ![placeholder](/images/en/en_im_pen_ic_32.png)
 
 
 

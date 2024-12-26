@@ -18,7 +18,7 @@ When exporting approval data, administrators need to fill in the following key p
 2. After confirming the settings are correct, click the [Export] button, and the system will automatically generate and export the approval data file (usually in CSV or Excel format) that meets the conditions.
 3. Download the exported file and use data analysis tools or other software for further analysis and processing.
 
-![Data Export Function](/images/appro_export.png)
+![Data Export Function](/images/en/appro_export.png)
 
 
 Through the data export function, administrators can more efficiently manage and analyze approval processes, promptly identify potential issues and optimize approval efficiency, improving the accuracy of management decisions.

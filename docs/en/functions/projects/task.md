@@ -97,7 +97,7 @@ Visibility determines who can view the task, supporting these options:
 
 Supports creating multiple subtasks for the current task, making it easier to break down complex tasks into executable units for better tracking and management.
 
-![Subtasks Interface](/images/pro_task_pic_17.png)
+![Subtasks Interface](/images/en/en_pro_task_pic_19.png)
 
 
 ## Advanced Task Features

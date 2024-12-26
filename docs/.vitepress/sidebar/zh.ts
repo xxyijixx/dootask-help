@@ -111,16 +111,16 @@ export const zhSidebar: DefaultTheme.Sidebar = {
         },
         { text: "工作报告", link: "/functions/report" },
         { text: "提醒功能", link: "/functions/reminders" },
-        { text: "AI机器人", link: "/functions/ai/index" },
+        { text: "AI机器人", link: "/functions/ai" },
       ],
     },
     {
       text: "🚀 &ensp; 部署与集成",
-      link: "/deploy/index",
+      link: "/deploy",
     },
     {
       text: "🤝 &ensp; 支持与帮助",
-      link: "/support/group",
+      link: "/support",
     },
     {
       text: "📚 &ensp; 文档完善中",

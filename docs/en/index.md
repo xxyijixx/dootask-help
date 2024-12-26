@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /basic/quick-start
+      link: /en/basic/quick-start
 
 features:
   - title: Project Management
