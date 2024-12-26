@@ -2,7 +2,7 @@
 
 By integrating multiple mainstream AI services, you can easily implement real-time user interaction, task automation, and more intelligent features to improve work efficiency and optimize team collaboration.
 
-![AI Robots](/images/AI_1.png)
+![AI Robots](/images/en/en_ai_6.png)
 
 ## Supported AI Robots
 

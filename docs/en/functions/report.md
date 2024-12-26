@@ -38,7 +38,7 @@ Designed to provide team members and managers with efficient task summarization 
 
 ## New Report
 
-![New Report](/images/en/en_report_pic_6.png)
+![New Report](/images/en/en_report_pic_7.png)
 
 **Key Features:**
 - **Select Report Type**: Users can choose between "Daily Report" or "Weekly Report".

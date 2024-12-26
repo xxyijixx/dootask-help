@@ -35,7 +35,7 @@ export const enSidebar: DefaultTheme.Sidebar = {
         { text: "Create Group", link: "/en/functions/im/create-group" },
         { text: "Anonymous Messaging", link: "/en/functions/im/anonymous" },
         { text: "Emoji Replies", link: "/en/functions/im/emoji-reply" },
-        { text: "Group Riddles", link: "/en/functions/im/group-riddle" },
+        { text: " Group Solitaire", link: "/en/functions/im/group-riddle" },
         { text: "Group Polls", link: "/en/functions/im/grooup-vote" },
       ],
     },
@@ -61,7 +61,7 @@ export const enSidebar: DefaultTheme.Sidebar = {
           text: "Check-in",
           collapsed: true,
           items: [
-            { text: "Multiple Check-in Methods", link: "/en/functions/checkin/many-ways" },
+            { text: "Multiple ways to clock in", link: "/en/functions/checkin/many-ways" },
             { text: "Check-in Settings (Admin)", link: "/en/functions/checkin/setting" },
             { text: "Data Export (Admin)", link: "/en/functions/checkin/export" },
           ],

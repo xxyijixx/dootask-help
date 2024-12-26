@@ -5,11 +5,11 @@ The system supports multiple task view modes to accommodate different management
 ## List View
 **Features and Characteristics**:
 - **Intuitive Categories**: Displays collapsible task lists organized by my tasks, assistance tasks, incomplete tasks, and completed tasks.
-- **Structured Display**: Lists all tasks in a table format, including fields such as task name, list, priority, assignee, and due date.
+- **Structured Display**: Lists all tasks in a table format, including fields such as task name, list, priority, person in charge, and due date.
 - **Sorting and Filtering**: Supports sorting by priority or due date, with conditional filtering capabilities.
 
 **Suitable Scenarios**:
-- When tracking numerous tasks individually.
+- When a large number of tasks need to be followed up item by item.
 - When emphasizing task details and categorical archiving.
 
 ![List View](/images/en/en_pro_task_view_pic_1.png)

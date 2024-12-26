@@ -29,7 +29,7 @@ Users can reply to messages by selecting emoji. Emoji reactions typically appear
    
    ![placeholder](/images/en/en_im_pen_ic_31.png)
 
-### Mobile Operations
+### Mobile phone operation
 
 1. **Select a Message**
    - Long press the message you want to react to in the chat window.
@@ -44,9 +44,9 @@ Users can reply to messages by selecting emoji. Emoji reactions typically appear
 
 ## Features
 
-- **Multiple Emoji Options**: Offers a variety of emoji to choose from, allowing users to select appropriate reactions based on emotions and context.
+- **Multiple Emoji Options**: Offers a variety of expression to choose from, allowing users to select appropriate expression based on emotions and context.
 - **Real-time Updates**: Emoji reactions appear instantly next to messages and are immediately visible to all conversation participants.
-- **Reaction Statistics**: Some applications may provide statistics showing the number of different emoji reactions received per message.
+- **Expression Statistics**: Some applications may provide statistics showing the number of different emoji reactions received per message.
 
 ## Use Cases
 
