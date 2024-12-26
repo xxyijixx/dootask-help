@@ -6,7 +6,7 @@ The message editing feature allows users to modify messages that have already be
 
 After sending a message, users can modify it using the message editing feature. Edited messages will display an edit indicator next to them, alerting recipients that the message has been modified.
 
-![placeholder](/images/im_edit_pic_2.png)
+![placeholder](/images/en/en_im_pen_ic_9.png)
 
 ## How to Edit
 

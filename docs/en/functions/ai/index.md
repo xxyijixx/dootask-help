@@ -40,7 +40,7 @@ On the settings page, select the AI robot you want to enable and fill in the cor
 
 After configuration is complete, you can verify the settings by interacting with the robot and experience the intelligent services of AI robots.
 
-![AI Robots](/images/AI_2.png)
+![AI Robots](/images/en/en_ai_pic_0.png)
 
 ## Application Features
 

@@ -36,7 +36,7 @@ export const enSidebar: DefaultTheme.Sidebar = {
         { text: "Anonymous Messaging", link: "/en/functions/im/anonymous" },
         { text: "Emoji Replies", link: "/en/functions/im/emoji-reply" },
         { text: "Group Riddles", link: "/en/functions/im/group-riddle" },
-        { text: "Group Polls", link: "/en/functions/im/group-vote" },
+        { text: "Group Polls", link: "/en/functions/im/grooup-vote" },
       ],
     },
     {

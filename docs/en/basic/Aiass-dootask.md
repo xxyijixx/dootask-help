@@ -20,27 +20,24 @@ In the ocean of technology and information, the AI Assistant serves as a lightho
 - **One-click Task Generation**: Based on project descriptions, use "@AI Robot" to generate task lists for efficient task creation.
 - **Simple Exit**: Simply send "goodbye" or "stop", and the AI robot will immediately exit, waiting for the next @ activation.
 
-![One-click @ Activation](/images/aiass_4.png)
+![One-click @ Activation](/images/en/en_aiass_0.png)
     
-![One-click Task Generation](/images/aiass_5.png)
+![One-click Task Generation](/images/en/en_aiass_1.png)
 
-![Simple Exit](/images/aiass_6.png)
+![Simple Exit](/images/en/en_aiass_2.png)
 
 ### Information Expert
 - **Documentation Guidance**: Helps users find relevant technical documentation and best practice guides to improve problem-solving efficiency.
 - **Technical News**: Provides latest technology trends, framework updates, and industry dynamics to keep users informed about their field.
 - **Knowledge Q&A**: Answers users' questions about programming, algorithms, software development, etc., providing detailed explanations and examples.
 
-![New Task Reminder](/images/aiass_2.png)
+![New Task Reminder](/images/en/en_aiass_3.png)
     
-![New Task Reminder](/images/aiass_3.png)
 
 ### Daily Assistant
 - **Multi-language Support**: Supports communication in multiple languages, helping users from different language backgrounds.
 - **Time Management**: Provides time management tips and tool suggestions to help users improve work efficiency.
 - **Life Optimization**: Shares life tips and health advice to help users maintain balance in busy lives.
-
-![New Task Reminder](/images/aiass_7.png)
 
 ::: tip 💡 Use AI Assistant responsibly to create a better tomorrow!
 AI is the power to enable the future, but each of us should be its responsible user. Let's work together to guide the healthy development of AI with wisdom and ethics,

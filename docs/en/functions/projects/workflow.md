@@ -2,11 +2,11 @@
 
 Workflow settings provide teams with a flexible task management approach, supporting customized task processing flows to significantly improve work efficiency.
 
-![Workflow](/images/pro_workflow_pic_1.png)
+![Workflow](/images/en/en_pro_workflow_pic_0.png)
 
 When creating a project, you can directly choose to **Enable Workflow**, or configure custom workflows after project creation based on your needs.
 
-![Create Workflow](/images/pro_workflow_pic_2.png)
+![Create Workflow](/images/en/en_pro_workflow_pic_1.png)
 
 
 ## I. Workflow Status Types
@@ -29,7 +29,7 @@ Workflows consist of **four task status types**, each with specific functions an
 - **Description**: The final status after task completion, representing the endpoint of the process.
 - **Characteristics**: When tasks enter this status, the system automatically marks them as "Completed".
 
-![Add Status](/images/pro_workflow_pic_3.png)
+![Add Status](/images/en/en_pro_workflow_pic_2.png)
 
 
 ## II. Status Setting Features
@@ -63,14 +63,14 @@ Transition modes determine how task owners are assigned when tasks move from cur
 - **Description**: Set associated task lists for statuses. When tasks transition to that status, the system automatically moves them to the corresponding list.
 - **Use Case**: Helps categorize tasks by phase or priority, such as creating "Pending Review" or "In Progress" task lists.
 
-![Status Settings](/images/pro_workflow_pic_4.png)
+![Status Settings](/images/en/en_pro_workflow_pic_3.png)
 
 
 ## III. Status Transition Rules
 
 Workflows allow customization of **status transition rules**, where teams can define which target statuses each status can transition to, ensuring task processing follows established logical requirements.
 
-![Status Transition Rules](/images/pro_workflow_pic_5.png)
+![Status Transition Rules](/images/en/en_pro_workflow_pic_0.png)
 
 
 ## IV. Important Notes

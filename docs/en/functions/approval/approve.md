@@ -11,7 +11,7 @@ Authorized administrators or approvers can make decisions on pending application
 
 Approvers can choose the appropriate decision based on the actual situation and submit the approval result immediately.
 
-![Approval Decisions](/images/appro_deal_1.png)
+![Approval Decisions](/images/en/en_appro_pic_0.png)
 
 ## Adding Comments
 
@@ -23,6 +23,6 @@ During the approval process, approvers can click the [Add Comment] button in the
 
 The comment function not only facilitates communication between approvers and applicants but also helps make the approval process more transparent.
 
-![Add Comments](/images/appro_deal_2.png)
+![Add Comments](/images/en/en_appro_pic_1.png)
 
 Through these operations, approvers can efficiently process pending applications, provide decisions, and give detailed feedback, ensuring the approval process is smooth, transparent, and efficient.

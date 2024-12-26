@@ -4,7 +4,7 @@ DooTask OKR helps users efficiently manage and optimize objectives through goal 
 
 ## System Overview
 
-![System Overview](/images/okr_pic_1.png)
+![System Overview](/images/en/en_okr_pic_2.png)
 
 DooTask OKR system includes multiple core modules that help users track and manage objectives comprehensively from individual to team levels:
 

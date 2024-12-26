@@ -6,4 +6,4 @@
 
 - **Approval CC Settings:** Administrators can set up approval CC in the process to ensure relevant personnel (such as managers, finance, etc.) receive timely notifications and updates, increasing transparency and collaboration efficiency.
 
-  ![Approval CC Settings](/images/appro_proce.png)
+  ![Approval CC Settings](/images/en/en_appro_pic_5.png)

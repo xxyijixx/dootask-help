@@ -15,15 +15,15 @@ A tool that helps groups quickly collect opinions and make decisions, allowing m
 
 1. **Enter Chat Interface**  
    Select "Initiate Vote" in the message input box (also available in the application interface).
-   ![placeholder](/images/im_group_vote_2.png)
+   ![placeholder](/images/en/en_im_pen_ic_26.png)
 
 2. **Fill Out the Form**  
    Define the voting topic, content, and settings such as multiple choice or anonymous voting options.
-   ![placeholder](/images/im_group_vote_3.png)
+   ![placeholder](/images/en/en_im_pen_ic_28.png)
 
 3. **Publish the Vote**  
    Click the "Send" button, and the voting link will be automatically generated and shared in the group.
-   ![placeholder](/images/im_group_vote_4.png)
+   ![placeholder](/images/en/en_im_pen_ic_29.png)
 
 4. **View and Manage Voting**  
    After publishing, group members can enter the voting link to cast their votes. After voting, the publisher can see real-time voting results. Two buttons appear below the vote:

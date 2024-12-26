@@ -7,12 +7,12 @@ The project team management feature allows administrators to assign and manage t
 2. Click on any member avatar in the upper right corner of the project interface to open the member management dialog.
 3. In the member management dialog, click the ⊕ icon next to "Project Members" to enter the member selection interface.
 
-![Project Team Management](/images/pro_team_mana.png)
+![Project Team Management](/images/en/en_pro_member_pic_2.png)
 
 4. In the member selection interface, you can select new members or remove existing ones by checking or unchecking boxes in the "Recent", "Contacts", or "Project Members" tabs.
 5. After selecting members, click the "Confirm" button to save your changes.
 
-![Project Team Management](/images/pro_team_mana_1.png)
+![Project Team Management](/images/en/en_pro_member_pic_3.png)
 
 ## Key Features
 - **Add Members**: Assign new members to the project.

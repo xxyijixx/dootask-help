@@ -16,17 +16,17 @@ A tool to help teams, groups, or organizations efficiently coordinate and manage
 1. **Enter Chat Interface**  
    Select "Initiate Chain" in the message input box (also available in the application interface).
      
-   ![placeholder](/images/im_group_rid_2.png)
+   ![placeholder](/images/en/en_im_pen_ic_22.png)
 
 2. **Fill in the Form**  
    Define the chain topic, content, format, and other information.
 
-   ![placeholder](/images/im_group_rid_3.png)
+   ![placeholder](/images/en/en_im_pen_ic_23.png)
 
 3. **Publish Chain**  
    Click the "Send" button, and the chain will be automatically generated and shared in the group.
 
-   ![placeholder](/images/im_group_rid_4.png)
+   ![placeholder](/images/en/en_im_pen_ic_25.png)
 
 
 

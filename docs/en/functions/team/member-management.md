@@ -2,7 +2,7 @@
 
 Administrators can efficiently manage departments, members, and permissions, ensuring clear organizational structure, rational resource allocation, and quick response to team changes and member management needs, thereby improving overall team collaboration efficiency and organizational management.
 
-![Team and Member Management](/images/team_mana_1.png)
+![Team and Member Management](/images/en/en_team_pic_0.png)
 
 ## Department and Organizational Structure Management
 
@@ -10,7 +10,7 @@ Administrators can efficiently manage departments, members, and permissions, ens
 - **Add Sub-departments**: Support creating multi-level sub-departments based on enterprise needs, achieving clear organizational structure for efficient management of team members and resources.
 - **Modify Departments**: Ability to adjust member department affiliations at any time, ensuring flexible and efficient personnel allocation to adapt to organizational changes.
 
-![Department and Organizational Structure Management](/images/team_mana_2.png)
+![Department and Organizational Structure Management](/images/en/en_team_pic_6.png)
 
 **Usage Recommendations**
 - Regularly review and adjust department structure to ensure department settings and resource allocation meet company development needs.
@@ -25,7 +25,7 @@ Administrators can efficiently manage departments, members, and permissions, ens
 - **Employment Status Filtering**: Support filtering active employees and former employees, helping administrators track team member status.
 - **Email Verification Status Filtering**: Filter by member email verification status to enhance information management security and reliability.
 
-![Precise Search and Filtering](/images/team_mana_3.png)
+![Precise Search and Filtering](/images/en/en_team_pic_7.png)
 
 **Usage Recommendations**
 - Regularly update member information to ensure search and filtering result accuracy.
@@ -40,7 +40,7 @@ Administrators can efficiently manage departments, members, and permissions, ens
 - **Modify Email**: Administrators can directly change member's bound email addresses to ensure account security and information accuracy.
 - **Change Password**: Administrators can directly reset passwords when members forget them or when accounts face security risks, protecting team data security.
 
-![Member Permissions and Status Management](/images/team_mana_4.png)
+![Member Permissions and Status Management](/images/en/en_team_pic_5.png)
 
 **Usage Recommendations**
 - When setting administrator permissions, ensure clear permission boundaries for relevant members to avoid permission abuse.
@@ -53,7 +53,7 @@ Administrators can efficiently manage departments, members, and permissions, ens
 - **Resignation Process**: Support marking resignation status for departing employees while retaining relevant records for future reference. This helps manage historical data and team structure changes.
 - **Delete Members**: Administrators can delete invalid or duplicate accounts to maintain a clean team roster and reduce management confusion.
 
-![Personnel Adjustment and Exit Management](/images/team_mana_5.png)
+![Personnel Adjustment and Exit Management](/images/en/en_team_pic_9.png)
 
 **Usage Recommendations**
 - Maintain records of former employees for a certain period to facilitate later review or data archiving.

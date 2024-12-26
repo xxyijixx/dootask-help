@@ -17,7 +17,7 @@ Click the [Login] button to successfully access your account.
 ### Step 1: Access QR Code Login Page
 Click the green QR code icon in the upper right corner of the login page to enter the QR code login page.
 
-![QR Code Login](/images/login_pic_1.png)
+![QR Code Login](/images/en/en_login_pic_6.png)
 
 ### Step 2: Scan QR Code with Mobile App
 

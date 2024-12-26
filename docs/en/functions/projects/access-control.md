@@ -2,7 +2,7 @@
 
 Project access control allows administrators to flexibly manage operation permissions for task columns and tasks, ensuring project security and efficiency.
 
-![Project Access Control](/images/pro_control_1.png)
+![Project Access Control](/images/en/en_pro_member_pic_1.png)
 
 ## Column Permissions
 - **Add Column**: Control who can create task columns.
@@ -19,5 +19,5 @@ Project access control allows administrators to flexibly manage operation permis
 - **Delete Task**: Restrict who can delete tasks.
 - **Move Task**: Set permissions for moving tasks between different columns.
 
-![Project Access Control](/images/pro_control_2.png)
+![Project Access Control](/images/en/en_pro_access_pic_1.png)
 

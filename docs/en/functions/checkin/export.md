@@ -9,11 +9,11 @@ The data export function provides administrators with convenient export options,
     - **Export Overdue Tasks**
     - **Export Check-in Data**
 
-![Export Operations](/images/cin_export_1.png)
+![Export Operations](/images/en/en_data_export_pic_0.png)
 
 3. Upon completion, a success message will appear, and users can download the Excel file from the **System Message Dialog**.
 
-![Placeholder Image](/images/cin_export_2.png)
+![Placeholder Image](/images/en/en_data_export_pic_5.png)
 
 ## Key Features
 - **Simplified Operation Process**

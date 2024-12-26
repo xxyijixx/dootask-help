@@ -45,7 +45,7 @@ In the basic system settings, you can configure the following aspects:
 - **Save Internet Images**: When enabled, internet images are saved on the local server.
 - **File Upload Limit**: Set size limits for files that can be sent in messages, default is unlimited.
 
-![Account Related](/images/basic_system_1.png)
+![Account Related](/images/en/en_ss_pic_0.png)
 
 ## Task Priority
 
@@ -54,7 +54,7 @@ In the basic system settings, you can configure the following aspects:
 3. Enter the "Task Priority" page to customize priority names, levels, days, and colors.
 4. Click [Submit] to confirm changes, or click [Reset] to clear current settings.
 
-![Task Priority](/images/basic_system_6.png)
+![Task Priority](/images/en/en_ss_pic_1.png)
 
 ## Project Templates
 
@@ -63,5 +63,5 @@ In the basic system settings, you can configure the following aspects:
 3. Enter the "Project Templates" page to customize project template names and template tags, facilitating quick project creation.
 4. Click [Submit] to confirm changes, or click [Reset] to clear current settings.
 
-![Project Templates](/images/basic_system_7.png)
+![Project Templates](/images/en/en_ss_pic_2.png)
 

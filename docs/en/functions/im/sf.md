@@ -10,11 +10,13 @@ In private chats, message delivery and reading status are indicated by check mar
 - When a user sends a message, a single check mark appears next to the message, indicating that the message has been successfully sent to the server.
 - This means that the message has arrived at the recipient's device, but they may not have viewed it yet.
 
+![placeholder](/images/en/en_im_pen_ic_0.png)
+
 - **Double check: message has been read**
 - When the recipient opens the chat window and views the message, the single check will turn into a double check.
 - This indicates that the recipient has read the message, confirming that they have seen the information sent.
 
-![placeholder](/images/im_1.png)
+![placeholder](/images/en/en_im_pen_ic_1.png)
 
 ## Group chat message status
 
@@ -36,7 +38,7 @@ In a group chat, the message reading status is indicated by a circular ring icon
 - **Read list**: Displays group members who have read the message.
 - **Unread list**: Displays group members who have not read the message yet.
 
-![placeholder](/images/im_3.png)
+![placeholder](/images/en/en_im_pen_ic_3.png)
 
 ## Status update details
 
