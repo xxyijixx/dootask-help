@@ -21,9 +21,9 @@ Workflows consist of **four task status types**, each with specific functions an
 - **Description**: Tasks enter the execution phase, with multiple statuses able to be marked as "In Progress" simultaneously.
 - **Characteristics**: Supports parallel processing, suitable for task division or multi-phase management.
 
-### 3. Review/Testing
-- **Description**: Tasks enter the review or testing phase after completion.
-- **Characteristics**: Only **one** status can be set as "Review/Testing" in the entire workflow, ensuring uniqueness in the task review process.
+### 3. Acceptance /Testing
+- **Description**: Tasks enter the acceptance or testing phase after completion.
+- **Characteristics**: Only **one** status can be set as "Acceptance /Testing" in the entire workflow, ensuring uniqueness in the task review process.
 
 ### 4. End Status
 - **Description**: The final status after task completion, representing the endpoint of the process.
@@ -61,7 +61,7 @@ Transition modes determine how task owners are assigned when tasks move from cur
 
 ### 4. Associated Lists
 - **Description**: Set associated task lists for statuses. When tasks transition to that status, the system automatically moves them to the corresponding list.
-- **Use Case**: Helps categorize tasks by phase or priority, such as creating "Pending Review" or "In Progress" task lists.
+- **Use Case**: Helps categorize tasks by phase or priority, such as creating "Pending Acceptance" or "In Progress" task lists.
 
 ![Status Settings](/images/en/en_pro_workflow_pic_3.png)
 
@@ -76,7 +76,7 @@ Workflows allow customization of **status transition rules**, where teams can de
 ## IV. Important Notes
 
 1. **Review/Testing Status**  
-   Only one "Review/Testing" status can be set in the workflow to avoid management confusion from multiple review statuses.
+   Only one "Acceptance/Testing" status can be set in the workflow to avoid management confusion from multiple review statuses.
 
 2. **End Status**  
    Once tasks enter "End Status", their status cannot be modified further.

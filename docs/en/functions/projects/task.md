@@ -26,7 +26,7 @@ Suitable for simple tasks, convenient for quick recording.
 ![Quick Task Creation Interface](/images/en/en_pro_task_pic_7.png)
 
 
-### Complete Creation
+### Full Creation
 
 Suitable for more complex tasks requiring more detailed information.
 

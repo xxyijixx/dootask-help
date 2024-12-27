@@ -9,7 +9,7 @@ A tool that helps groups quickly collect opinions and make decisions, allowing m
 - **Use Cases**
     - In urgent situations, group voting can quickly collect opinions to help the group make swift decisions
     - Collect member evaluations of project phase results or support levels for certain project decisions
-    - Understand member needs and preferences to optimize products or services
+    - Understand group needs and preferences to optimize products or services
 
 ## How to Use
 
