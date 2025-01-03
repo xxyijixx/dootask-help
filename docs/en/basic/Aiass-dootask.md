@@ -2,8 +2,8 @@
 
 In the ocean of technology and information, the AI Assistant serves as a lighthouse, providing clear guidance and support for users. Whether providing creative support or answering a wide range of questions, it offers timely and accurate help.
 
-::: tip 🐬 Smart Dolphin (DooTask's AI Assistant)
-"Smart Dolphin is here to serve you! If you have any questions or need suggestions, feel free to ask me! ✨"
+::: tip  🐬 AI Assistant
+“The AI Assistant is here to help! If you have any questions or need advice, feel free to reach out to me! ✨”
 :::
 
 ## AI Assistant: Your all-weather knowledge partner
