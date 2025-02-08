@@ -10,7 +10,6 @@ In private chats, message delivery and reading status are indicated by check mar
 - When a user sends a message, a single check mark appears next to the message, indicating that the message has been successfully sent to the server.
 - This means that the message has arrived at the recipient's device, but they may not have viewed it yet.
 
-![placeholder](/images/en/en_im_pen_ic_0.png)
 
 - **Double check: message has been read**
 - When the recipient opens the chat window and views the message, the single check mark will turn into a double check.
