@@ -16,15 +16,15 @@ Anonymous messaging is a feature in the instant messaging module that allows use
 
 1. **Enter Chat Interface and Select Anonymous Mode**  
    Open the instant messaging module, start a chat with the target user, and select "Anonymous Mode" in the message input box.
-   ![placeholder](/images/en/en_im_pen_ic_16.png)
+   ![placeholder](/images/en/im_n_pic_1.png)
    
 2. **Send Message**  
    Enter the message content and click send. The system will automatically forward the message to the target user through a bot.
-   ![placeholder](/images/en/en_im_pen_ic_17.png)
+   ![placeholder](/images/en/im_n_pic_2.png)
 
 3. **Receiving Anonymous Messages**  
    The target user receives the anonymous message from the bot and can see the message content but not the sender's real identity.
-   ![placeholder](/images/en/en_im_pen_ic_18.png)
+   ![placeholder](/images/en/im_n_pic_3.png)
 
 ## Important Notes
 

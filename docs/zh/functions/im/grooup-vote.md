@@ -15,22 +15,22 @@
 
 1.  **进入聊天界面**  
    在消息输入框选择“发起投票”（也可以在应用界面中选择）。
-   ![placeholder](/images/im_group_vote_2.png)
+   ![placeholder](/images/zh/im_group_vote_2.png)
 
 2.  **进入表单填写**  
    定义投票主题、投票内容、投票是否允许多选或匿名投票等信息。
-   ![placeholder](/images/im_group_vote_3.png)
+   ![placeholder](/images/zh/im_group_vote_3.png)
 
 3. **发布投票**  
    点击“发送”按钮，投票链接会自动生成，并分享至该群组中。
-   ![placeholder](/images/im_group_vote_4.png)
+   ![placeholder](/images/zh/im_group_vote_4.png)
 
 4. **查看和管理投票**  
    发布投票后，群成员可以进入投票链接进行投票。发布者投票后可实时见证投票情况，投票下方会出现两个按钮：
    - **再次发送**：点击此按钮可以再次发布投票链接，提醒未参与投票的成员，确保更多人参与。
    - **结束投票**：点击此按钮可以关闭投票，并不再接受新的投票，直观了解投票结果。
    
-   ![placeholder](/images/im_group_vote_5.png)
+   ![placeholder](/images/zh/im_group_vote_5.png)
 
 
 

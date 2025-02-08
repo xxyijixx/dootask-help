@@ -9,7 +9,7 @@ To ensure users can efficiently resolve issues, we provide multiple technical su
 By joining our technical discussion group, you can communicate with the development team and other users to discuss problems or seek help.  
 **Group Number**: **546574618**  
 
-![QQ Group QR Code](/images/qq_code.jpg)
+![QQ Group QR Code](/images/en/qq_code.jpg)
 
 ### 2. Issue Submission
 

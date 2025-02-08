@@ -2,7 +2,7 @@
 
 By integrating multiple mainstream AI services, you can easily implement real-time user interaction, task automation, and more intelligent features to improve work efficiency and optimize team collaboration.
 
-![AI Robots](/images/en/en_ai_6.png)
+![AI Robots](/images/en/AI_1.png)
 
 ## Supported AI Robots
 
@@ -40,7 +40,7 @@ On the settings page, select the AI robot you want to enable and fill in the cor
 
 After configuration is complete, you can verify the settings by interacting with the robot and experience the intelligent services of AI robots.
 
-![AI Robots](/images/en/en_ai_pic_0.png)
+![AI Robots](/images/en/AI_2.png)
 
 ## Application Features
 

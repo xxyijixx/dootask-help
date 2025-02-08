@@ -2,7 +2,7 @@
 
 DooTask's OKR Result Analysis feature provides managers with detailed data support, helping teams track, evaluate, and optimize OKR implementation to drive efficient achievement of organizational goals.
 
-![Result Analysis](/images/en/en_okr_pic_5.png)
+![Result Analysis](/images/en/okr_pic_3.png)
 
 ## **Overall Average Completion Rate**
 

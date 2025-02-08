@@ -12,7 +12,7 @@ The system supports multiple task view modes to accommodate different management
 - When a large number of tasks need to be followed up item by item.
 - When emphasizing task details and categorical archiving.
 
-![List View](/images/en/en_pro_task_view_pic_1.png)
+![List View](/images/en/pro_vimo_1.png)
 
 ## Kanban View
 **Features and Characteristics**:
@@ -25,7 +25,7 @@ The system supports multiple task view modes to accommodate different management
 - Team collaboration requiring visual progress tracking.
 - Monitoring overall task flow.
 
-![Kanban View](/images/en/en_pro_task_view_pic_0.png)
+![Kanban View](/images/en/pro_vimo_2.png)
 
 ## Timeline View
 **Features and Characteristics**:
@@ -36,7 +36,7 @@ The system supports multiple task view modes to accommodate different management
 - Project planning and task scheduling.
 - Managing task timelines.
 
-![Timeline View](/images/en/en_pro_task_view_pic_2.png)
+![Timeline View](/images/en/pro_vimo_3.png)
 
 ## Calendar View
 **Features and Characteristics**:
@@ -49,4 +49,4 @@ The system supports multiple task view modes to accommodate different management
 - Daily work organization and short-term planning.
 - Quick overview of daily or weekly priorities.
 
-![Calendar View](/images/en/en_pro_task_view_pic_3.png)
+![Calendar View](/images/en/pro_vimo_4.png)

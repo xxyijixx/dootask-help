@@ -18,13 +18,13 @@ The file sharing function enables users to flexibly manage the sharing scope and
 
 Enter the file management page and select the file or folder you want to share.
 
-![Select File](/images/en/en_file_pic_0.png)
+![Select File](/images/en/file_share_1.png)
 
 ### 2. Click the "Share" Button to Enter Sharing Settings
 
 In the file or folder operations bar, click the "Share" button to enter the sharing settings interface and begin configuring sharing settings.
 
-![Select Share](/images/en/en_file_pic_2.png)
+![Select Share](/images/en/file_share_2.png)
 
 ### 3. Set Sharing Scope and Permissions
 
@@ -33,13 +33,13 @@ In the sharing settings page, users need to select the sharing scope and permiss
 - **Sharing Scope**: Choose to share the file or folder with "specific members" or "everyone".
 - **Permission Settings**: Choose "read-only" or "editable" permissions as needed to ensure file security and smooth collaboration.
 
-![Edit Sharing](/images/en/en_file_pic_3.png)
+![Edit Sharing](/images/en/file_share_3.png)
 
 ### 4. Confirm and Complete Sharing Settings
 
 After completing all settings, click the "Share" button to save and complete the sharing operation. After sharing, the file or folder will be visible within the selected scope and accessible according to the set permissions.
 
-![Confirm Sharing](/images/en/en_file_pic_4.png)
+![Confirm Sharing](/images/en/file_share_4.png)
 
 ## Important Notes
 

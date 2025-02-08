@@ -4,7 +4,7 @@ DooTask OKR helps users efficiently manage and optimize objectives through goal 
 
 ## System Overview
 
-![System Overview](/images/en/en_okr_pic_2.png)
+![System Overview](/images/en/okr_pic_1.png)
 
 DooTask OKR system includes multiple core modules that help users track and manage objectives comprehensively from individual to team levels:
 
@@ -47,7 +47,7 @@ Facilitates periodic performance reviews to ensure timely summary and adjustment
 - **Goal Completion Progress:** Displays completion status of each objective as a percentage, helping users understand goal achievement progress in real-time.
 - **Key Results (KR):** Specific measurable outcomes for each objective, showing completion percentage and alignment with goals.
 
-![Core Metrics](/images/en/en_okr_pic_6.png)
+![Core Metrics](/images/en/okr_pic_2.png)
 
 ### User Roles
 - **Creator:** User responsible for setting and managing OKRs, creating objectives and defining related key results.

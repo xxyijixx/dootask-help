@@ -4,7 +4,7 @@ The Work Report module is designed to provide team members and managers with eff
 
 ## My Reports
 
-![My Reports](/images/team_worep_1.png)
+![My Reports](/images/en/team_worep_1.png)
 
 **Key Features:**
 - **Report Type Filter**: Filter reports by type (All, Daily, Weekly) for quick access to desired reports.
@@ -20,7 +20,7 @@ The Work Report module is designed to provide team members and managers with eff
 
 ## Received Reports
 
-![Received Reports](/images/team_worep_2.png)
+![Received Reports](/images/en/team_worep_2.png)
 
 **Key Features:**
 - **Keyword Search**: Support keyword search for quick location of relevant report content.
@@ -38,7 +38,7 @@ The Work Report module is designed to provide team members and managers with eff
 
 ## Create New Report
 
-![Create New Report](/images/team_worep_3.png)
+![Create New Report](/images/en/team_worep_3.png)
 
 **Key Features:**
 - **Select Report Type**: Users can choose between "Daily Report" or "Weekly Report".

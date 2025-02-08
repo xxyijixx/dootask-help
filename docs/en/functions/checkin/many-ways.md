@@ -7,7 +7,7 @@ The attendance check-in bot supports various attendance methods, ensuring that w
 **Overview**  
 Manual check-in is a basic and universal attendance recording method, suitable for small businesses without special hardware devices or temporary workplaces. Employees complete their attendance by clicking the manual check-in button below the check-in bot, making it simple and intuitive.
 
-![Manual Check-in](/images/en/en_pro_checkin_setting_pic_12.png)
+![Manual Check-in](/images/en/cin_way_1.png)
 
 **Operation Process**  
 1. Open the check-in bot.  
@@ -24,7 +24,7 @@ Through manual check-in, businesses can implement simple attendance management w
 **Overview**  
 WiFi check-in is based on the company's internal wireless network. Once employee devices connect to the designated WiFi, the system automatically completes attendance recording. This method is suitable for businesses with fixed office locations, making operations more convenient.
 
-![WiFi Check-in](/images/en/en_pro_checkin_setting_pic_15.png)
+![WiFi Check-in](/images/en/cin_way_2.png)
 
 **Operation Process**  
 1. Configure device MAC address information to ensure system recognition.  
@@ -42,7 +42,7 @@ WiFi check-in is ideal for businesses seeking to simplify operations with stable
 **Overview**  
 Facial recognition check-in uses biometric technology to automatically record attendance by capturing and comparing employee facial features through cameras. This method offers high security and is suitable for businesses with strict attendance requirements.
 
-![Facial Recognition Check-in](/images/en/en_pro_checkin_setting_pic_16.png)
+![Facial Recognition Check-in](/images/en/cin_way_3.png)
 
 **Operation Process**  
 1. Employees enter areas equipped with cameras and recognition systems.  
@@ -59,7 +59,7 @@ Facial recognition check-in effectively enhances attendance accuracy and securit
 **Overview**  
 Location-based check-in records employee attendance through device GPS functionality. Employees complete the process by clicking the "Location Check-in" button upon arriving at designated locations.
 
-![Location-based Check-in](/images/en/en_pro_checkin_setting_pic_13.png)
+![Location-based Check-in](/images/en/cin_way_4.png)
 
 **Operation Process**  
 1. Ensure device GPS functionality is enabled.  

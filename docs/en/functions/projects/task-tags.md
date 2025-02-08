@@ -6,7 +6,7 @@ Task tags are essential tools in efficient project management. They not only hel
 
 The task tag feature allows users to assign specific tags to each task. Similar to task templates, tags help teams quickly identify task types, priorities, status, or any other custom properties. Tags make tasks more prominent in lists, making it easier for team members to find needed information and improve task manageability and visualization.
 
-![Task Tags](/images/en/en_pro_task_tag_pic_3.png)
+![Task Tags](/images/en/pro_task_tag_pic_1.png)
 
 ## Advantages of Task Tags
 
@@ -22,19 +22,19 @@ The task tag feature allows users to assign specific tags to each task. Similar 
 4. **Flexible Usage**  
    Tags can be customized flexibly according to project needs, meeting the requirements of different work scenarios and ensuring each task receives appropriate identification.
 
-![Task Tags Menu](/images/en/en_pro_member_pic_1.png)
+![Task Tags Menu](/images/en/pro_task_tag_pic_2.png)
 
 ## How to Use Task Tags
 
 1. **Creating New Tags**  
    Users can create tags for tasks by simply entering a tag name and selecting a color, giving tasks specific identifiers. The entire process is simple and intuitive, allowing any team member to quickly get started.
 
-   ![Create New Task Tag](/images/en/en_pro_task_tag_pic_1.png)
+   ![Create New Task Tag](/images/en/pro_task_tag_pic_3.png)
 
 2. **Selecting Tags for Tasks**  
    When creating new tasks, users can select preset tags or custom tags through a dropdown menu, giving each task clear identification at creation for subsequent filtering and management.
 
-   ![Select Tags for Tasks](/images/en/en_pro_task_tag_pic_4.png)
+   ![Select Tags for Tasks](/images/en/pro_task_tag_pic_4.png)
 
 
 ## Quick Filtering and Viewing Tasks

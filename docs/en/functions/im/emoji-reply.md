@@ -2,7 +2,7 @@
 
 Emoji replies allow users to quickly respond to specific messages using emoji. This feature provides users with a concise and expressive way to convey emotions and feedback while reducing the need for text input.
 
-![placeholder](/images/en/en_im_pen_ic_19.png)
+![placeholder](/images/en/im_emoji_pic_5.png)
 
 ## Overview of Emoji Reply Feature
 
@@ -15,19 +15,19 @@ Users can reply to messages by selecting emoji. Emoji reactions typically appear
 1. **Select a Message**
    - Right-click on the message you want to react to in the chat window.
 
-   ![placeholder](/images/en/en_im_pen_ic_20.png)
+   ![placeholder](/images/en/im_emoji_pic_3.png)
 
 2. **Open Emoji Menu**
    - Click the "Emoji" icon or "More Options" menu that appears next to the message.
    - The emoji selection interface will pop up.
 
-   ![placeholder](/images/en/en_im_pen_ic_21.png)
+   ![placeholder](/images/en/im_emoji_pic_6.png)
 
 3. **Choose an Emoji**
    - Select an appropriate emoji from the menu.
    - The selected emoji will immediately appear below or beside the message.
    
-   ![placeholder](/images/en/en_im_pen_ic_31.png)
+   ![placeholder](/images/en/im_emoji_pic_1.png)
 
 ### Mobile phone operation
 

@@ -9,11 +9,11 @@
     - **导出超期任务**
     - **导出签到数据**
 
-![导出操作](/images/cin_export_1.png)
+![导出操作](/images/zh/cin_export_1.png)
 
 3. 完成后，会出现成功提示，用户可在**系统消息对话框**中下载 Excel 文件。
 
-![Placeholder Image](/images/cin_export_2.png)
+![Placeholder Image](/images/zh/cin_export_2.png)
 
 ## 功能要点
 - **简便的操作流程**

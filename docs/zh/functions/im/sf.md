@@ -14,7 +14,7 @@
   - 当对方打开聊天窗口并查看了消息，单勾将变为双勾。
   - 这表示消息已经被对方阅读，用户可以确认对方已经看到所发送的信息。
 
-![placeholder](/images/im_1.png)
+![placeholder](/images/zh/im_1.png)
 
 ## 群聊消息状态
 
@@ -36,7 +36,7 @@
   - **已读列表**：显示已查看该消息的群成员。
   - **未读列表**：显示尚未查看该消息的群成员。
 
-![placeholder](/images/im_3.png)
+![placeholder](/images/zh/im_3.png)
 
 ## 状态更新的细节
 

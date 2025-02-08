@@ -17,15 +17,15 @@
 
 1. **进入聊天界面选择匿名模式**  
    打开即时通讯模块，与目标用户开始聊天，在消息输入框选择“匿名模式”。
-   ![placeholder](/images/im_n_pic_1.png)
+   ![placeholder](/images/zh/im_n_pic_1.png)
    
 2. **发送消息**  
    输入消息内容并点击发送，系统会自动通过机器人将消息转发给目标用户。
-  ![placeholder](/images/im_n_pic_2.png)
+  ![placeholder](/images/zh/im_n_pic_2.png)
 
 3. **匿名消息接收**  
    目标用户收到机器人发来的匿名消息，可以看到消息内容但不会显示发送者的真实身份。
-  ![placeholder](/images/im_n_pic_3.png)
+  ![placeholder](/images/zh/im_n_pic_3.png)
 ## 注意事项
 
 - **匿名限制**:  

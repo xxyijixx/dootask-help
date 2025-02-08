@@ -32,7 +32,7 @@
 - **手动签到**：用户可以通过手动点击签到按钮进行签到
 
 
-![签到设置](/images/cin_set_1.png)
+![签到设置](/images/zh/cin_set_1.png)
 
 ## 四、各签到方式说明
 
@@ -41,7 +41,7 @@
 - 配置 **签到设备**
 - 可根据需要设置是否允许重复打卡
 
-![人脸签到设置](/images/cin_set_2.png)
+![人脸签到设置](/images/zh/cin_set_2.png)
 
 ### 2. WiFi 签到
 
@@ -51,18 +51,18 @@
 4. 如需关闭签到功能，请务必重新安装服务。
 5. 执行命令完成安装：
 
-![WiFi 签到安装指令](/images/cin_set_3.png)
+![WiFi 签到安装指令](/images/zh/cin_set_3.png)
 
 ### 3. 定位签到
 - 设置 **签到名称**，例如“定位签到”。
 - 配置 **百度地图 AK**，可通过 [百度地图开发者平台](https://lbs.baidu.com/) 获取。
 
-![定位签到设置](/images/cin_set_4.png)
+![定位签到设置](/images/zh/cin_set_4.png)
 
 ### 4. 手动签到
 - 用户可直接点击签到按钮进行签到。
 
-![手动签到设置](/images/cin_set_5.png)
+![手动签到设置](/images/zh/cin_set_5.png)
 
 ## 五、常见问题
 

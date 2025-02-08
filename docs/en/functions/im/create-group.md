@@ -15,7 +15,7 @@ While chatting with a user, you can click on the options in the top-right corner
    - Click on "More Options" or the "three-dot" menu in the top-right corner of the chat window.
    - Select "Create Group" option.
 
-![placeholder](/images/en/en_im_pen_ic_10.png)
+![placeholder](/images/en/im_group_pic_1.png)
 
 2. **Fill in Group Information**
    - Complete the information in the pop-up form
@@ -23,19 +23,19 @@ While chatting with a user, you can click on the options in the top-right corner
    - **Group Members**: Select members to join the group through the ⊕ button.
    - **Group Name**: Enter an easily recognizable group name for member identification.
 
-![placeholder](/images/en/en_im_pen_ic_12.png)
+![placeholder](/images/en/im_group_pic_2.png)
 
 3. **Complete Group Creation**
    - Click the "Create" button to complete the group creation.
    - The newly created group will immediately appear in the chat list, and users can start group chatting with new members right away.
    
-   ![placeholder](/images/en/en_im_pen_ic_13.png)
+   ![placeholder](/images/en/im_group_pic_6.png)
 
 4. **Add Group Members**
    - In the contact selection interface that pops up, select other users to join the group.
    - You can quickly find and select contacts using the search box.
    
-   ![placeholder](/images/en/en_im_pen_ic_15.png)
+   ![placeholder](/images/en/im_group_pic_3.png)
 
 ## Features
 

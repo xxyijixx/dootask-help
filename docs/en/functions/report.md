@@ -4,7 +4,7 @@ Designed to provide team members and managers with efficient task summarization 
 
 ## My Reports
 
-![My Reports](/images/en/en_report_pic_1.png)
+![My Reports](/images/en/team_worep_1.png)
 
 **Key Features:**
 - **Report Type Filtering**: Support filtering by report type (All, Daily, Weekly) for quick report location.
@@ -20,7 +20,7 @@ Designed to provide team members and managers with efficient task summarization 
 
 ## Received Reports
 
-![Received Reports](/images/en/en_report_pic_5.png)
+![Received Reports](/images/en/team_worep_2.png)
 
 **Key Features:**
 - **Keyword Search**: Support searching by keywords to quickly locate relevant report content.
@@ -38,7 +38,7 @@ Designed to provide team members and managers with efficient task summarization 
 
 ## New Report
 
-![New Report](/images/en/en_report_pic_7.png)
+![New Report](/images/en/team_worep_3.png)
 
 **Key Features:**
 - **Select Report Type**: Users can choose between "Daily Report" or "Weekly Report".

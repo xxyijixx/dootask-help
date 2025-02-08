@@ -23,7 +23,7 @@
 
 > **提示**：管理员可前往系统设置中自定义优先级和时间限制。
 
-![快速创建任务界面](/images/pro_task_pic_1.png)
+![快速创建任务界面](/images/zh/pro_task_pic_1.png)
 
 
 ### 完整创建
@@ -35,14 +35,14 @@
 2. 填写任务标题、描述、优先级、时间、协作人员、子任务等详细信息。
 3. 添加任务，完成创建。
 
-![完整创建任务界面1](/images/pro_task_pic_2.png)  
-![完整创建任务界面3](/images/pro_task_pic_3.png)
+![完整创建任务界面1](/images/zh/pro_task_pic_2.png)  
+![完整创建任务界面3](/images/zh/pro_task_pic_3.png)
 
 **选择为哪个项目/列创建**
 
 在任务创建时，您可以选择将任务归属到指定的项目或列，而不仅限于当前项目。
 
-![选择为哪个项目列创建](/images/pro_task_pic_4.png)
+![选择为哪个项目列创建](/images/zh/pro_task_pic_4.png)
 
 
 ## 设置任务属性
@@ -59,7 +59,7 @@
 
 > **自定义优先级**：管理员可在系统设置中修改优先级分类及时间限制，以适应不同团队需求。
 
-![任务优先级设置界面](/images/pro_task_pic_20.png)
+![任务优先级设置界面](/images/zh/pro_task_pic_20.png)
 
 
 ### 时间设置
@@ -71,7 +71,7 @@
 - 延期任务。
 - 清除任务时间（适用于无明确时间限制的任务）。
 
-![时间设置界面](/images/pro_task_pic_19.png)
+![时间设置界面](/images/zh/pro_task_pic_19.png)
 
 
 ### 任务人员
@@ -79,8 +79,8 @@
 - **负责人**：指定任务的主要负责人。
 - **协助人员**：可添加多个协助人员，共同完成任务。
 
-![负责人设置界面](/images/pro_task_pic_5.png)  
-![协作人员设置界面](/images/pro_task_pic_6.png)
+![负责人设置界面](/images/zh/pro_task_pic_5.png)  
+![协作人员设置界面](/images/zh/pro_task_pic_6.png)
 
 
 ### 可见性
@@ -90,14 +90,14 @@
 - **任务人员可见**：仅任务的负责人和协作人员可见。
 - **所有人可见**：项目外的人员也可以查看任务。
 
-![可见性设置界面](/images/pro_task_pic_18.png)
+![可见性设置界面](/images/zh/pro_task_pic_18.png)
 
 
 ### 子任务
 
 支持为当前任务创建多个子任务，便于将复杂任务分解为可执行的单元，并更好地进行跟踪和管理。
 
-![子任务界面](/images/pro_task_pic_17.png)
+![子任务界面](/images/zh/pro_task_pic_17.png)
 
 
 ## 任务的高级功能
@@ -109,21 +109,21 @@
 - 每周任务
 - 每月任务
 
-![重复周期设置界面](/images/pro_task_pic_16.png)
+![重复周期设置界面](/images/zh/pro_task_pic_16.png)
 
 
 ### 附件上传
 
 上传与任务相关的附件（如PDF、图片、文档等），方便团队成员获取所需资料。
 
-![附件上传界面](/images/pro_task_pic_15.png)
+![附件上传界面](/images/zh/pro_task_pic_15.png)
 
 
 ### 标签设置
 
 添加自定义标签，用于任务分类、筛选和快速定位。
 
-![标签设置界面](/images/pro_task_pic_14.png)
+![标签设置界面](/images/zh/pro_task_pic_14.png)
 
 
 ## 任务管理与协作
@@ -134,14 +134,14 @@
 - **延期任务**：若任务无法按时完成，可以进行延期操作。
 - **清除任务时间**：移除任务时间限制，适用于无时间要求的任务。
 
-![任务时间管理界面](/images/pro_task_pic_8.png)
+![任务时间管理界面](/images/zh/pro_task_pic_8.png)
 
 
 ### 任务聊天
 
 在任务详情页面，与团队成员进行实时沟通，记录讨论内容，提高协作效率。
 
-![任务聊天界面](/images/pro_task_pic_12.png)
+![任务聊天界面](/images/zh/pro_task_pic_12.png)
 
 
 ### 任务动态
@@ -152,4 +152,4 @@
 - 协作人员的更新。
 - 其他操作日志，便于任务跟踪。
 
-![任务动态界面](/images/pro_task_pic_13.png)
+![任务动态界面](/images/zh/pro_task_pic_13.png)

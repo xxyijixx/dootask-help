@@ -5,20 +5,20 @@ Through calendar visualization of project subtasks' time distribution, help team
 ## Calendar View Task Management
 - **View Task Time**: In the calendar view, you can intuitively check the time arrangement for each project subtask, clearly grasping task progress.
 
-![Unknown](/images/en/en_task_calendar_pic_0.png)
+![Unknown](/images/en/clander_1.png)
 
 - **Click to View Details**: Click on any subtask in the calendar to view its basic information, including task time and description, making it convenient to understand task content.
 
-![Unknown](/images/en/en_task_calendar_pic_1.png)
+![Unknown](/images/en/clander_2.png)
 
 - **Drag to Adjust Time**: Supports directly changing task planned time by dragging task cards, flexibly adapting to project adjustment needs.
 
-![Unknown](/images/en/en_task_calendar_pic_5.png)
+![Unknown](/images/en/clander_3.png)
 
 ## Quick Task Creation
 1. **Long Press to Select Time Range**: Long press to select a time range in the calendar to quickly enter the task creation interface, efficient and convenient.
 
-![Unknown](/images/en/en_task_calendar_pic_2.png)
+![Unknown](/images/en/clander_4.png)
 
 2. **Task Creation Settings**
 
@@ -31,10 +31,10 @@ In the task creation interface, you can set the following details:
 - **Visibility**: Set task visibility range, protecting information privacy or team collaboration flexibility.
 - **Add Subtasks**: Support nesting subtasks within tasks, refining work steps, ensuring orderly task breakdown.
 
-![Unknown](/images/en/en_task_calendar_pic_3.png)
+![Unknown](/images/en/clander_5.png)
 
 3. **Completed Task Creation Will Display in Calendar**
 
-![Unknown](/images/en/en_task_calendar_pic_4.png)
+![Unknown](/images/en/clander_7.png)
 
 Through calendar view and flexible task management functions, improve team collaboration efficiency and make task management more intuitive and efficient.

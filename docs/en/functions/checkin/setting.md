@@ -31,7 +31,7 @@ The check-in function is a convenient tool for managing member attendance. Admin
 - **Location Check-in**: Complete check-in through geographic location (requires mobile operation)
 - **Manual Check-in**: Users can check in by manually clicking the check-in button
 
-![Check-in Settings](/images/en/en_pro_checkin_setting_pic_6.png)
+![Check-in Settings](/images/en/cin_set_1.png)
 
 ## IV. Description of Check-in Methods
 
@@ -40,7 +40,7 @@ The check-in function is a convenient tool for managing member attendance. Admin
 - Configure **Check-in Devices**
 - Set whether to allow repeated check-ins as needed
 
-![Face Recognition Settings](/images/en/en_pro_checkin_setting_pic_10.png)
+![Face Recognition Settings](/images/en/cin_set_2.png)
 
 ### 2. WiFi Check-in
 
@@ -50,18 +50,18 @@ The check-in function is a convenient tool for managing member attendance. Admin
 4. If you need to disable the check-in function, please reinstall the service.
 5. Execute commands to complete installation:
 
-![WiFi Check-in Installation Commands](/images/en/en_pro_checkin_setting_pic_8.png)
+![WiFi Check-in Installation Commands](/images/en/cin_set_3.png)
 
 ### 3. Location Check-in
 - Set **Check-in Name**, e.g., "Location Check-in".
 - Configure **Baidu Map AK**, which can be obtained from [Baidu Map Developer Platform](https://lbs.baidu.com/).
 
-![Location Check-in Settings](/images/en/en_pro_checkin_setting_pic_9.png)
+![Location Check-in Settings](/images/en/cin_set_4.png)
 
 ### 4. Manual Check-in
 - Users can check in directly by clicking the check-in button.
 
-![Manual Check-in Settings](/images/en/en_pro_checkin_setting_pic_7.png)
+![Manual Check-in Settings](/images/en/cin_set_5.png)
 
 ## V. Common Issues
 

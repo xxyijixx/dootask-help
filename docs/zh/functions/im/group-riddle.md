@@ -16,17 +16,17 @@
 1. **进入聊天界面**  
    在消息输入框选择“发起接龙”（也可以在应用界面中选择）。
      
-   ![placeholder](/images/im_group_rid_2.png)
+   ![placeholder](/images/zh/im_group_rid_2.png)
 
 2. **进入表单填写**  
    定义接龙主题、接龙内容、接龙格式等信息。
 
-   ![placeholder](/images/im_group_rid_3.png)
+   ![placeholder](/images/zh/im_group_rid_3.png)
 
 3. **发布接龙**  
    点击“发送”按钮，接龙会自动生成，并分享至该群组中。
 
-   ![placeholder](/images/im_group_rid_4.png)
+   ![placeholder](/images/zh/im_group_rid_4.png)
 
 
 

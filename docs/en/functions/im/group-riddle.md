@@ -16,17 +16,17 @@ A tool to help teams, groups, or organizations efficiently coordinate and manage
 1. **Enter Chat Interface**  
    Select "Initiate chain reply" in the message input box (also available in the application interface).
      
-   ![placeholder](/images/en/en_im_pen_ic_22.png)
+   ![placeholder](/images/en/im_group_rid_2.png)
 
 2. **Fill in the Form**  
    Define the solitaire topic, content, format, and other information.
 
-   ![placeholder](/images/en/en_im_pen_ic_23.png)
+   ![placeholder](/images/en/im_group_rid_3.png)
 
 3. **PublishInitiate chain reply**  
    Click the "Send" button, and the Initiate chain reply will be automatically generated and shared in the group.
 
-   ![placeholder](/images/en/en_im_pen_ic_25.png)
+   ![placeholder](/images/en/im_group_rid_4.png)
 
 
 

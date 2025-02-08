@@ -14,7 +14,7 @@ In instant messaging applications, users can effectively manage and track messag
     - **Mark as Read**: Use this to confirm that all messages have been processed and clear unread message notifications.
     - **Pin Conversation**: If you need to fix a conversation at the top of the chat list for quick access, select this option. This action will place the conversation at the top of the list.
 
-![placeholder](/images/en/en_im_pen_ic_4.png)
+![placeholder](/images/en/im__1.png)
 
 ### Mobile Operations
 

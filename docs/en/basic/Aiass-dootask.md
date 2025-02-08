@@ -20,18 +20,18 @@ In the ocean of technology and information, the AI Assistant serves as a lightho
 - **One-click Task Generation**: Based on project descriptions, use "@AI Robot" to generate task lists for efficient task creation.
 - **Simple Exit**: Simply send "goodbye" or "stop", and the AI robot will immediately exit, waiting for the next @ activation.
 
-![One-click @ Activation](/images/en/en_aiass_0.png)
+![One-click @ Activation](/images/en/aiass_4.png)
     
-![One-click Task Generation](/images/en/en_aiass_1.png)
+![One-click Task Generation](/images/en/aiass_5.png)
 
-![Simple Exit](/images/en/en_aiass_2.png)
+![Simple Exit](/images/en/aiass_6.png)
 
 ### Information Expert
 - **Documentation Guidance**: Helps users find relevant technical documentation and best practice guides to improve problem-solving efficiency.
 - **Technical News**: Provides latest technology trends, framework updates, and industry dynamics to keep users informed about their field.
 - **Knowledge Q&A**: Answers users' questions about programming, algorithms, software development, etc., providing detailed explanations and examples.
 
-![New Task Reminder](/images/en/en_aiass_3.png)
+![New Task Reminder](/images/en/aiass_7.png)
     
 
 ### Daily Assistant
