@@ -27,7 +27,7 @@ export const sharedConfig = defineConfig({
     ["meta", { name: "keywords", content: "DooTask,帮助" }],
   ],
   appearance: true, // 主题模式，默认浅色且开启切换
-  lastUpdated: true, // 上次更新
+  lastUpdated: false, // 上次更新
   vite: {
     build: {
       chunkSizeWarningLimit: 1600,
