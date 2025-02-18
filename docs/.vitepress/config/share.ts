@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export const sharedConfig = defineConfig({
+  base: "/help/",
   rewrites: {
     "zh/:rest*": ":rest*",
   },
@@ -14,7 +15,6 @@ export const sharedConfig = defineConfig({
     ["link", { rel: "shortcut icon", href: `/logo.svg` }],
     // 网站 favicon.ico 图标
     ["link", { rel: "icon", href: `/logo.svg`, type: "image/svg+xml" }],
-
     [
       "meta",
       {
