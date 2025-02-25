@@ -1,5 +1,5 @@
 import { DefaultTheme } from "vitepress";
 
 export const enNav: DefaultTheme.NavItem[] = [
-    { text: "Home", link: "/en" },
+    { text: "Back to Official Website", link: "https://www.dootask.com"}
 ]

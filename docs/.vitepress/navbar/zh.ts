@@ -1,5 +1,5 @@
 import { DefaultTheme } from "vitepress";
 
 export const zhNav: DefaultTheme.NavItem[] = [
-    { text: "主页", link: "/" },
+    { text: "返回官网", link: "https://www.dootask.com"}
 ]

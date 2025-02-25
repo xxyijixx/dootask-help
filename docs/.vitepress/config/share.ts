@@ -12,9 +12,9 @@ export const sharedConfig = defineConfig({
   cleanUrls: true,
   head: [
     // favicon.ico 图标等
-    ["link", { rel: "shortcut icon", href: `/logo.svg` }],
+    ["link", { rel: "shortcut icon", href: `/help/logo.svg` }],
     // 网站 favicon.ico 图标
-    ["link", { rel: "icon", href: `/logo.svg`, type: "image/svg+xml" }],
+    ["link", { rel: "icon", href: `/help//logo.svg`, type: "image/svg+xml" }],
     [
       "meta",
       {
