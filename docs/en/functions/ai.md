@@ -6,7 +6,7 @@ By integrating multiple mainstream AI services, you can easily implement real-ti
 
 ## Supported AI Robots
 
-The application supports the following six mainstream AI robots to assist with intelligent support in your work:
+The application supports the following popular AI bots, providing intelligent assistance in work:
 
 1. **ChatGPT**
 2. **Claude**
@@ -14,6 +14,8 @@ The application supports the following six mainstream AI robots to assist with i
 4. **ERNIE Bot**
 5. **Tongyi Qianwen**
 6. **Zhipu AI**
+7. **Grok**
+8. **Ollama**
 
 You can easily set up and enable these AI robots through the in-app configuration interface.
 
