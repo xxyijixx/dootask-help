@@ -24,24 +24,10 @@ jobs:
       - name: Build project
         run: npm run docs:build
 
-      - name: Ensure clean pages branch exists
-        run: |
-          git fetch origin
-          if git show-ref --quiet refs/remotes/origin/pages; then
-            echo "✅ pages branch exists"
-          else
-            echo "⚠️ pages branch missing, creating it cleanly"
-            git checkout --orphan pages
-            git rm -rf .
-            git commit --allow-empty -m "Initialize pages branch"
-            git push origin --force pages
-            git checkout master
-          fi
-
       - name: Deploy to pages branch
         uses: JamesIves/github-pages-deploy-action@v4.4.3
         with:
-          branch: pages
+          branch: gh-pages
           folder: docs/.vitepress/dist
           clean: true
           single-commit: true
